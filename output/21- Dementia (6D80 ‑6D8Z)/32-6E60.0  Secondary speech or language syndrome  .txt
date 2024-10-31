@@ -1,0 +1,19 @@
+6E60.0  Secondary speech or language syndrome  
+
+
+  6E60   Secondary neurodevelopmental syndrome  
+A syndrome that involves significant neurodevelopmental features that do not fulfill 
+the diagnostic requirements of any of the specific neurodevelopmental disorders 
+that is judged to be a direct pathophysiological cons equence of a health condition 
+not classified under mental and behavioural disorders (e.g., autistic -like features in 
+Rett syndrome; aggression and self -mutilation in Lesch -Nyhan syndrome, 
+abnormalities in language development in Williams syndrome), based o n evidence 
+from the history, physical examination, or laboratory findings.  
+This category should be used in addition to the diagnosis for the presumed 
+underlying disorder or disease when the neurodevelopmental problems are 
+sufficiently severe to warrant spe cific clinical attention.  
+Coding Note:  Code also the causing condition  
+Exclusions:  Autism spectrum disorder (6A02)  
+Disorders of intellectual development (6A00)  
+Stereotyped movement disorder (6A06)  
+ 

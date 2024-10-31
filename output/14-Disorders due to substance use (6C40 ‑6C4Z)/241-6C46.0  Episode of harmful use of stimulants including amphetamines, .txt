@@ -1,0 +1,47 @@
+6C46.0  Episode of harmful use of stimulants including amphetamines, 
+
+
+Cocaine -induced impulse control disor der is characterised by persistently repeated 
+behaviours in which there is recurrent failure to resist an impulse, drive, or urge to 
+perform an act that is rewarding to the person, at least in the short -term, despite 
+longer -term harm either to the individu al or to others (e.g., fire setting or stealing 
+without apparent motive, repetitive sexual behaviour, aggressive outbursts) that 
+develop during or soon after intoxication with or withdrawal from cocaine. The 
+intensity or duration of the symptoms is substan tially in excess of disturbances of 
+impulse control that are characteristic of Cocaine intoxication or Cocaine 
+withdrawal. The amount and duration of cocaine use must be capable of producing 
+disturbances of impulse control. The symptoms are not better expl ained by a 
+primary mental disorder (e.g., an Impulse control disorder, a Disorder due to 
+addictive behaviours), as might be the case if the impulse control disturbances 
+preceded the onset of the cocaine use, if the symptoms persist for a substantial 
+period  of time after cessation of the cocaine use or withdrawal, or if there is other 
+evidence of a pre -existing primary mental disorder with impulse control symptoms 
+(e.g., a history of prior episodes not associated with cocaine use).  
+Coding Note:  Code also the causing condition  
+ 
+6C45.Y  Other specified disorders due to use of cocaine  
+ 
+6C45.Z  Disorders due to use of cocaine, unspecified  
+ 490  ICD-11 MMS  
+   6C46   Disorders due to use of stimulants including amphetamines, 
+methamphetamine or methcathinone  
+Disorders due  to use of stimulants including amphetamines, methamphetamine or 
+methcathinone are characterised by the pattern and consequences of use of these 
+substances. There is a wide array of naturally occurring and synthetically produced 
+psychostimulants other than  cocaine. The most numerous of this group are the 
+amphetamine -type substances, including methamphetamine. Prescribed stimulants 
+including dexamphetamine are indicated for a limited number of conditions such as 
+for Attention Deficit Hyperactivity Disorder. Methcathinone, known in many countries 
+as ephedrone, is a synthetic potent stimulant that is a structural analogue of 
+methamphetamine and is related to cathinone. All these drugs have primarily 
+psychostimulant properties and are also vasoconstrictors to a varying degree. They 
+induce euphoria and hyperactivity as may be seen in Stimulant Intoxication. They 
+have potent dependence -producing properties, which may lead to the diagnosis of 
+Stimulant Dependence and Stimulant Withdrawal following the cessation of u se. 
+Several Stimulant -Induced Mental Disorders are described.  
+Exclusions:  Disorders due to use of synthetic cathinones (6C47)  
+Disorders due to use of caffeine (6C48)  
+Disorders due to use of cocaine (6C45)  
+Hazardous use of stimulants including amphetamines or 
+methamphetamine (QE11.4)  
+ 

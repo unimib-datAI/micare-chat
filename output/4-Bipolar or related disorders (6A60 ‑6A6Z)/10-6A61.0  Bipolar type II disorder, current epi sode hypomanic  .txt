@@ -1,0 +1,94 @@
+6A61.0  Bipolar type II disorder, current epi sode hypomanic  
+
+
+Bipolar type I disorder, current episode mixed, without psychotic symptoms is 
+diagnosed when the definitional requirements for Bipolar type I disorder are met and 
+the current episode is mixed and there are no delusions or hal lucinations present 
+during the episode. A mixed episode is characterised by the presence of several 
+prominent manic and several prominent depressive symptoms consistent with those 
+observed in manic episodes and depressive episodes, which either occur 
+simul taneously or alternate very rapidly (from day to day or within the same day). 
+Symptoms must include an altered mood state consistent with a manic and/or 
+depressive episode (i.e., depressed, dysphoric, euphoric or expansive mood), and 
+be present most of the  day, nearly every day, during a period of at least 2 weeks, 
+unless shortened by a treatment intervention. If the individual has experienced 
+Manic or Mixed Episodes in the past, a duration of 2 weeks is not required in order 
+to diagnose a current episode i f all other diagnostic requirements are met.  
+ 
+6A60.A  Bipolar type I disorder, current episode mixed, with psychotic symptoms  
+Bipolar type I disorder, current episode mixed, with psychotic symptoms is 
+diagnosed when the definitional requirements for Bipolar  type I disorder are met and 
+the current episode is mixed and there are delusions or hallucinations present 
+during the episode. A mixed episode is characterised by the presence of several 
+prominent manic and several prominent depressive symptoms consistent  with those 
+observed in manic episodes and depressive episodes, which either occur 
+simultaneously or alternate very rapidly (from day to day or within the same day). 
+Symptoms must include an altered mood state consistent with a manic and/or 
+depressive epis ode (i.e., depressed, dysphoric, euphoric or expansive mood), and 
+be present most of the day, nearly every day, during a period of at least 2 weeks, 
+unless shortened by a treatment intervention. If the individual has experienced 
+Manic or Mixed Episodes in the past, a duration of 2 weeks is not required in order 
+to diagnose a current episode if all other diagnostic requirements are met.  
+ 
+6A60.B  Bipolar type I disorder, currently in partial remission, most recent episode 
+manic or hypomanic  
+Bipolar type I diso rder, currently in partial remission, most recent episode manic or 
+hypomanic is diagnosed when the definitional requirements for Bipolar type I 
+disorder have been met and the most recent episode was a manic or hypomanic 
+episode. The full definitional requi rements for a manic or hypomanic episode are no 
+longer met but some significant mood symptoms remain. In some cases, residual 
+mood symptoms may be depressive rather than manic or hypomanic, but do not 
+satisfy the definitional requirements for a depressive episode.  
+ 
+6A60.C  Bipolar type I disorder, currently in partial remission, most recent episode 
+depressive  
+Bipolar type I disorder, currently in partial remission, most recent episode 
+depressive is diagnosed when the definitional requirements for Bipolar typ e I 
+disorder have been met and the most recent episode was a depressive episode. 
+The full definitional requirements for the episode are no longer met but some 
+significant depressive symptoms remain.  
+ 416  ICD-11 MMS  
+ 6A60.D  Bipolar type I disorder, currently in partial rem ission, most recent episode 
+mixed  
+Bipolar type I disorder, currently in partial remission, most recent episode mixed is 
+diagnosed when the definitional requirements for Bipolar type I disorder have been 
+met and the most recent episode was a mixed episode. The full definitional 
+requirements for the episode are no longer met but some significant mood 
+symptoms remain.  
+ 
+6A60.E  Bipolar type I disorder, currently in partial remission, most recent episode 
+unspecified  
+Bipolar type I disorder, currently in partial r emission, most recent episode 
+unspecified is diagnosed when the definitional requirements for Bipolar type I 
+disorder have been met but there is insufficient information to determine the nature 
+of the most recent mood episode. The full definitional require ments for a mood 
+episode are no longer met but some significant mood symptoms remain.  
+ 
+6A60.F  Bipolar type I disorder, currently in full remission  
+Bipolar type I disorder, currently in full remission is diagnosed when the full 
+definitional requirements for  Bipolar I disorder have been met in the past but there 
+are no longer any significant mood symptoms.  
+ 
+6A60.Y  Other specified bipolar type I disorder  
+ 
+6A60.Z  Bipolar type I disorder, unspecified  
+ 
+  6A61   Bipolar type II disorder  
+Bipolar type II disorder is an episodic mood disorder defined by the occurrence of 
+one or more hypomanic episodes and at least one depressive episode. A 
+hypomanic episode is a persistent mood state lasting for at least several days 
+characterised by persist ent elevation of mood or increased irritability as well as 
+increased activity or a subjective experience of increased energy, accompanied by 
+other characteristic symptoms such as increased talkativeness, rapid or racing 
+thoughts, increased self -esteem, dec reased need for sleep, distractability, and 
+impulsive or reckless behavior. The symptoms represent a change from the 
+individual’s typical mood, energy level, and behavior but are not severe enough to 
+cause marked impairment in functioning. A depressive epi sode is characterised by 
+a period of depressed mood or diminished interest in activities occurring most of the 
+day, nearly every day during a period lasting at least two weeks accompanied by 
+other symptoms such as changes in appetite or sleep, psychomotor agitation or 
+retardation, fatigue, feelings of worthless or excessive or inappropriate guilt, feelings 
+or hopelessness, difficulty concentrating, and suicidality. There is no history of 
+manic or mixed episodes.  
+ ICD-11 MMS  417 
+ 

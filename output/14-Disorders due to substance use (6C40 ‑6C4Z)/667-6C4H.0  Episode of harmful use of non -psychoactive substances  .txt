@@ -1,0 +1,40 @@
+6C4H.0  Episode of harmful use of non -psychoactive substances  
+
+
+substance  
+Impulse control disorder induced by unknown or unspecified psychoactive 
+substance is characterised by persistently repeated behaviours in which there is 
+recurrent failure to resist an impulse, drive, or urge to perform an act that is 
+rewarding to the perso n, at least in the short -term, despite longer -term harm either 
+to the individual or to others (e.g., fire setting or stealing without apparent motive, 
+repetitive sexual behaviour, aggressive outbursts) that develop during or soon after 
+intoxication with or  withdrawal from an unknown or unspecified psychoactive 
+substance. The symptoms are not better explained by a primary mental disorder 
+(e.g., an Impulse control disorder, a Disorder due to addictive behaviours), as might 
+be the case if the impulse control d isturbances preceded the onset of the unknown 
+or unspecified psychoactive substance use, if the symptoms persist for a substantial 
+period of time after cessation of use or withdrawal of the unknown or unspecified 
+psychoactive substance, or if there is othe r evidence of a pre -existing primary 
+mental disorder with impulse control symptoms (e.g., a history of prior episodes not 
+associated with the unknown or unspecified psychoactive substance use).  
+Coding Note:  Code also the causing condition  
+ 
+6C4G.Y  Other spe cified disorders due to use of unknown or unspecified psychoactive 
+substances  
+ 
+6C4G.Z  Disorders due to use of unknown or unspecified psychoactive substances, 
+unspecified  
+ 
+  6C4H   Disorders due to use of non -psychoactive substances  
+Disorders due to use of non-psychoactive substances are characterised by the 
+pattern and consequences of non -medical use of non -psychoactive substances. 
+Non-psychoactive substances include laxatives, anabolic steroids, growth hormone, 
+erythropoietin, and non -steroidal anti -inflam matory drugs. They may also include 
+proprietary or over -the-counter medicines and folk remedies. Non -medical use of 
+these substances may be associated with harm to the individual due to the direct or 
+secondary toxic effects of the non -psychoactive substanc e on body organs and 
+systems, or a harmful route of administration (e.g., infections due to intravenous 
+self-administration). They are not associated with intoxication or with a dependence 
+or withdrawal syndrome and are not recognized causes of substance -induced 
+mental disorders.  
+ 

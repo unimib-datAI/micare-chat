@@ -1,0 +1,39 @@
+6C42.0  Episode of harmful use of synthetic cannabinoids  
+
+
+Cannabis -induced anxiety disorder is characterised by anxiety symptoms (e.g., 
+apprehension or worry, fear, physiological symptoms of excessive autonomic 
+arousal, avoidance behaviour) that develop during or soon after intoxi cation with or 
+withdrawal from cannabis. The intensity or duration of the symptoms is substantially 
+in excess of anxiety symptoms that are characteristic of Cannabis intoxication or 
+Cannabis withdrawal. The amount and duration of cannabis use must be capab le of 
+producing anxiety symptoms. The symptoms are not better explained by a primary 
+mental disorder (e.g., an Anxiety and Fear -Related Disorder, a Depressive Disorder 
+with prominent anxiety symptoms), as might be the case if the anxiety symptoms 
+preceded the onset of the cannabis use, if the symptoms persist for a substantial 
+period of time after cessation of the cannabis use or withdrawal, or if there is other 
+evidence of a pre -existing primary mental disorder with anxiety symptoms (e.g., a 
+history of pri or episodes not associated with cannabis use).  
+Coding Note:  Code also the causing condition  
+ 
+6C41.Y  Other specified disorders due to use of cannabis  
+ 
+6C41.Z  Disorders due to use of cannabis, unspecified  
+ 
+  6C42   Disorders due to use of synthetic cannabinoids  
+Disorders due to use of synthetic cannabinoids are characterised by the pattern and 
+consequences of synthetic cannabinoid use. Synthetic cannabinoids are 
+synthesized diverse chemical compounds that are potent agonists for endogenous 
+cannabinoid receptors. There are several hundred such compounds. The synthetic 
+compound is typically sprayed onto a vehicle such as cannabis or tea leaves and 
+then smoked. The effect of these compounds is distinctly different from s moking 
+naturally cultivated cannabis in that the euphoric effects are typically accompanied 
+or dominated by psychotic -like symptoms (e.g., paranoia, hallucinations, and 
+disorganized behavior). Synthetic Cannabinoid Intoxication may therefore present 
+more f requently with psychotic symptoms in addition to the more typical effects of 
+cannabis. Synthetic cannabinoids are also dependence -producing and Synthetic 
+Cannabinoid Dependence and Synthetic Cannabinoid Withdrawal are recognized. 
+Synthetic Cannabinoid -Induced Mental Disorders also occur; in particular Synthetic 
+Cannabinoid -Induced Psychotic Disorder is recognized.  
+Exclusions:  Disorders due to use of cannabis (6C41)  
+ 

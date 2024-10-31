@@ -1,0 +1,35 @@
+6C49.0  Episode of harmful use of hallucinogens  
+
+
+Caffeine -induced anxiety disorder is characterised by anxiety symptoms (e.g., 
+apprehension or worry, fear, physiological symptoms of excessive autonomic 
+arousal, avoidance behaviour) that develop during or soon after intoxication with or 
+withdrawal from caffeine. The intensity or duration of the symptoms is substantially 
+in excess of anxiety symptoms that are characteristic of Caffeine intoxication or 
+Caffeine withdrawal. The amount and duration of caffeine use must be  capable of 
+producing anxiety symptoms. The symptoms are not better explained by a primary 
+mental disorder (e.g., an Anxiety and fear -related disorder, a Depressive disorder 
+with prominent anxiety symptoms), as might be the case if the anxiety symptoms 
+preceded the onset of the caffeine use, if the symptoms persist for a substantial 
+period of time after cessation of the caffeine use or withdrawal, or if there is other 
+evidence of a pre -existing primary mental disorder with anxiety symptoms (e.g., a 
+history of prior episodes not associated with caffeine use).  
+Coding Note:  Code also the causing condition  
+ 
+6C48.Y  Other specified disorders due to use of caffeine  
+ 
+6C48.Z  Disorders due to use of caffeine, unspecified  
+ 508  ICD-11 MMS  
+   6C49   Disorders due to use of hallucinogens  
+Disorders due to use of hallucinogens are characterised by the pattern and 
+consequences of hallucinogen use. Several thousand compounds have 
+hallucinogenic properties, many of which are found in plants (e.g., mescaline) and 
+fungi (e.g., psilocybin) or are  chemically synthesized (e.g., lysergic acid 
+diethylamide [LSD]). These compounds have primarily hallucinogenic properties, 
+but some may also be stimulants. Much of the morbidity associated with these 
+compounds arises from the acute effects related to Hall ucinogen Intoxication. 
+Hallucinogen Dependence is rare and Hallucinogen Withdrawal is not described. 
+Among the mental disorders related to hallucinogen use, Hallucinogen -Induced 
+Psychotic Disorder is the most frequently seen, although worldwide it is still  fairly 
+uncommon.  
+ 

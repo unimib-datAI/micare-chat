@@ -1,0 +1,34 @@
+6A02.0  Autism spectrum disorder without disorder of intellectual development and 
+
+
+Developmental language disorder with other specified language impairment is 
+characterised by persistent difficulties in the acquisition, understanding, production 
+or use of language (spoken or signed), that arise during the developmental period 
+and cause s ignificant limitations in the individual’s ability to communicate. The 
+pattern of specific deficits in language abilities is not adequately captured by any of 
+the other developmental language disorder categories.  
+Exclusions:  Autism spectrum disorder (6A02)  
+Diseases of the nervous system  (Chapter 08)  
+Disorders of intellectual development (6A00)  
+Selective mutism (6B06)  
+ 394  ICD-11 MMS  
+ 6A01.Y  Other specified developmental speech or language disorders  
+ 
+6A01.Z  Developmental speech or language disorders, unspecified  
+ 
+  6A02   Autism spectrum disorder  
+Autism spectrum disorder is characterised by persistent deficits in the ability to 
+initiate and to sustain reciprocal social interaction and social communication, an d by 
+a range of restricted, repetitive, and inflexible patterns of behaviour, interests or 
+activities that are clearly atypical or excessive for the individual’s age and 
+sociocultural context. The onset of the disorder occurs during the developmental 
+perio d, typically in early childhood, but symptoms may not become fully manifest 
+until later, when social demands exceed limited capacities. Deficits are sufficiently 
+severe to cause impairment in personal, family, social, educational, occupational or 
+other imp ortant areas of functioning and are usually a pervasive feature of the 
+individual’s functioning observable in all settings, although they may vary according 
+to social, educational, or other context. Individuals along the spectrum exhibit a full 
+range of in tellectual functioning and language abilities.  
+Inclusions:  Autistic disorder  
+Exclusions:  Rett syndrome (LD90.4)  
+ 

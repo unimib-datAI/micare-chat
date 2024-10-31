@@ -1,0 +1,46 @@
+6C43.0  Episode of harmful use of opioids  
+
+
+Synthetic cannabinoid -induced anxiety disorder is characterised by anxiety 
+symptoms (e.g., apprehension or worry, fear, physiological symptoms of excessive 
+autonomic arousal, avoidance behaviour) that develop during or soon after 
+intoxication with or withdrawal from synthetic cannabinoids. The intensity or duration 
+of the symptoms is substantially in excess of anxiety symptoms that are 
+characteristic of Synthetic cannabinoid intoxication or Synthetic cannabinoi d 
+withdrawal. The amount and duration of synthetic cannabinoid use must be capable 
+of producing anxiety symptoms. The symptoms are not better explained by a 
+primary mental disorder (e.g., an Anxiety and Fear -Related Disorder, a Depressive 
+Disorder with pro minent anxiety symptoms), as might be the case if the anxiety 
+symptoms preceded the onset of the synthetic cannabinoid use, if the symptoms 
+persist for a substantial period of time after cessation of the synthetic cannabinoid 
+use or withdrawal, or if there  is other evidence of a pre -existing primary mental 
+disorder with anxiety symptoms (e.g., a history of prior episodes not associated with 
+synthetic cannabinoid use).  
+Coding Note:  Code also the causing condition  
+ 
+6C42.Y  Other specified disorders due to use of synthetic cannabinoids  
+ 
+6C42.Z  Disorders due to use of synthetic cannabinoids, unspecified  
+ 
+  6C43   Disorders due to use of opioids  
+Disorders due to use of opioids are characterised by the pattern and consequences 
+of opioid use. Opioids is a generic te rm that encompasses the constituents or 
+derivatives of the opium poppy Papaver somniferum as well as a range of synthetic 
+and semisynthetic compounds, some related to morphine and others chemically 
+distinct but all having their primary actions on the µ opi oid receptor. Examples of 
+opioids include morphine, diacetylmorphine (heroin), fentanyl, pethidine, 
+oxycodone, hydromorphone, methadone, buprenorphine, codeine and d -
+propoxyphene. The opioids all have analgesic properties of different potencies and 
+are pri marily central nervous system depressants. They suppress respiration as well 
+as other vital functions and are a common cause of overdose and related deaths. 
+Certain opioids are used or administered parenterally, including heroin, a common 
+and potent opioid  that is primarily used non -medically. Therapeutic opioids are 
+prescribed for a range of indications worldwide, and are essential for pain 
+management in cancer pain and palliative care, although they are also used for 
+non-therapeutic reasons. In some count ries morbidity and mortality related to 
+therapeutic opioids is greater than that related to heroin. All opioids may result in 
+Opioid Intoxication, Opioid Dependence and Opioid Withdrawal. A range of Opioid -
+Induced Disorders occur, some of which occur follo wing Opioid Withdrawal.  
+Exclusions:  Hazardous use of opioids (QE11.0)  
+ 472  ICD-11 MMS  
+ 

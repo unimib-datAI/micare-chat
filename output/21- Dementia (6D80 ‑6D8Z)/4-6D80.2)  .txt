@@ -1,0 +1,28 @@
+6D80.2)  
+
+
+Dementia due to Alzheimer disease with other concomitant pathology, not including 
+cerebrovascular disease.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is  desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 
+6D80.Z  Dementia due to Alzheimer disease, onset unknown or unspecified  
+Coding Note:  This category should nev er be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+ 576  ICD-11 MMS  
+   6D81   Dementia due to cerebrovascular disease  
+Dementia due t o brain parenchyma injury resulting from cerebrovascular disease 
+(ischemic or haemorrhagic). The onset of the cognitive deficits is temporally related 
+to one or more vascular events. Cognitive decline is typically most prominent in 
+speed of information pro cessing, complex attention, and frontal -executive 
+functioning. There is evidence of the presence of cerebrovascular disease 
+considered to be sufficient to account for the neurocognitive deficits from history, 
+physical examination and neuroimaging.  
+Coding N ote: This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+Exclusions:  Alzheimer disease demen tia, mixed type, with cerebrovascular 
+disease (

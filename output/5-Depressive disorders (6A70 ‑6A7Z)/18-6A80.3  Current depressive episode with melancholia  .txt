@@ -1,0 +1,9 @@
+6A80.3  Current depressive episode with melancholia  
+
+
+The diagnostic requirements for a depressive episode are currently met and have 
+been met continuously for at least the past 2 years.  
+Coding Note:  These categories should never be used in primary coding. T he codes are provided 
+for use as supplementary or additional codes when it is desired to identify specific 
+clinically important features of mood episodes in mood disorders.  
+ 

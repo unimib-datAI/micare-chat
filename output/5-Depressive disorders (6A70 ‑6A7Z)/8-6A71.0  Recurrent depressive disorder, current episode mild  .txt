@@ -1,0 +1,28 @@
+6A71.0  Recurrent depressive disorder, current episode mild  
+
+
+Single episode depressive disorder, currently in full remission is diagnosed whe n 
+the full definitional requirements for one depressive episode have been met in the 
+past and there are no longer any significant mood symptoms. There is no history of 
+depressive episodes preceding the episode under consideration.  
+ 
+6A70.Y  Other specified single episode depressive disorder  
+ 
+6A70.Z  Single episode depressive disorder, unspecified  
+ 
+  6A71   Recurrent depressive disorder  
+Recurrent depressive disorder is characterised by a history of at least two 
+depressive episodes separated by at least several months without significant mood 
+disturbance. A depressive episode is characterised by a period of depressed mood 
+or diminished interest in activities occurring most of the day, nearly every day during 
+a period lasting at least two weeks ac companied by other symptoms such as 
+difficulty concentrating, feelings of worthlessness or excessive or inappropriate guilt, 
+hopelessness, recurrent thoughts of death or suicide, changes in appetite or sleep, 
+psychomotor agitation or retardation, and reduc ed energy or fatigue. There have 
+never been any prior manic, hypomanic, or mixed episodes, which would indicate 
+the presence of a Bipolar disorder.  
+Inclusions:  seasonal depressive disorder  
+Exclusions:  Adjustment disorder (6B43)  
+Bipolar or related disorders  (6A60‑6A6Z)  
+Single episode depressive disorder (6A70)  
+ 

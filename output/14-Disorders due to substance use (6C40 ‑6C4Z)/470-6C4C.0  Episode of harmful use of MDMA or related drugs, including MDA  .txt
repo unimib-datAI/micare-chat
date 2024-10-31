@@ -1,0 +1,37 @@
+6C4C.0  Episode of harmful use of MDMA or related drugs, including MDA  
+
+
+Volatile inhalant -induced anxiety disorder is characterised by anxiety symptoms 
+(e.g., apprehension or worry, fe ar, physiological symptoms of excessive autonomic 
+arousal, avoidance behaviour) that develop during or soon after intoxication with or 
+withdrawal from volatile inhalants. The intensity or duration of the symptoms is 
+substantially in excess of anxiety sympt oms that are characteristic of Volatile 
+inhalant intoxication or Volatile inhalant withdrawal. The amount and duration of 
+volatile inhalant use must be capable of producing anxiety symptoms. The 
+symptoms are not better explained by a primary mental disorde r (e.g., an Anxiety 
+and Fear -Related Disorder, a Depressive Disorder with prominent anxiety 
+symptoms), as might be the case if the anxiety symptoms preceded the onset of the 
+volatile inhalant use, if the symptoms persist for a substantial period of time af ter 
+cessation of the volatile inhalant use or withdrawal, or if there is other evidence of a 
+pre-existing primary mental disorder with anxiety symptoms (e.g., a history of prior 
+episodes not associated with volatile inhalant use).  
+Coding Note:  Code also th e causing condition  
+ 
+6C4B.Y  Other specified disorders due to use of volatile inhalants  
+ 
+6C4B.Z  Disorders due to use of volatile inhalants, unspecified  
+ 
+  6C4C   Disorders due to use of MDMA or related drugs, including MDA  
+Disorders due to use of MDMA or re lated drugs, including MDA are characterised 
+by the pattern and consequences of MDMA or related drug use. MDMA is 
+methylene -dioxymethamphetamine and is a common drug of abuse in many 
+countries especially among young people. It is predominantly available in  tablet 
+form known as ‘ecstasy’. Pharmacologically, MDMA has stimulant and 
+empathogenic properties and these encourage its use among young people for 
+social and other interactions. Considering its wide prevalence in many countries and 
+among many sub -groups  of young people, MDMA and Related Drug Dependence 
+and MDMA and Related Drug Withdrawal are comparatively uncommon. 
+Substance -Induced Mental Disorders may arise from its use. Several analogues of 
+MDMA exist, including MDA (methylene -dioxyamphetamine).  
+Exclusions:  Hazardous use of MDMA or related drugs (QE11.6)  
+ 

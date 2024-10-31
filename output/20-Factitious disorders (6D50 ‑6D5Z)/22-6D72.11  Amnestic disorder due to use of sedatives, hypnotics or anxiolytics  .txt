@@ -1,0 +1,17 @@
+6D72.11  Amnestic disorder due to use of sedatives, hypnotics or anxiolytics  
+
+
+All definitional requirements for amnestic disorder are met. The memory symptoms 
+are judged to be the direct consequence of alcohol use. The intensity and duration 
+of alcohol use must be known to be capable of prod ucing memory impairment. The 
+memory impairment may develop during or soon after alcohol intoxication or 
+withdrawal, but its intensity and duration are substantially in excess of those 
+normally associated with these conditions. The symptoms are not better a ccounted 
+for by another disorder or medical condition, as might be the case if the amnestic 
+symptoms preceded the onset of the alcohol use.  
+Coding Note:  This category should not be used to describe cognitive changes due to thiamine 
+deficiency associated wi th chronic alcohol use.  
+Exclusions:  Korsakoff syndrome (5B5A.11)  
+Wernicke -Korsakoff Syndrome (5B5A.1)  
+ ICD-11 MMS  573 
+ 

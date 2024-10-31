@@ -1,0 +1,37 @@
+6A23.0  Acute and transient psychotic disorder, first episode  
+
+
+ 
+6A21.Y  Other specified schizoaffective disorder  
+ 
+6A21.Z  Schizoaffective disorder, unspecified  
+ 
+  6A22   Schizotypal disorder  
+Schizotypal disorder is characterised by an enduring pattern (i.e. characteristic of 
+the person’s functioning over a period of at least several years) of eccentricities in 
+behaviour, appearance and speech, accompanied by cognitive and perceptual 
+distortion s, unusual beliefs, and discomfort with — and often reduced capacity for — 
+interpersonal relationships. Symptoms may include constricted or inappropriate 
+affect and anhedonia. Paranoid ideas, ideas of reference, or other psychotic 
+symptoms, including halluci nations in any modality, may occur, but are not of 
+sufficient intensity or duration to meet the diagnostic requirements of schizophrenia, 
+schizoaffective disorder, or delusional disorder. The symptoms cause distress or 
+impairment in personal, family, socia l, educational, occupational or other important 
+areas of functioning.  
+Inclusions:  Schizotypal personality disorder  
+Exclusions:  Autism spectrum disorder (6A02)  
+Personality disorder (6D10)  
+ ICD-11 MMS  405 
+   6A23   Acute and transient psychotic disorder  
+Acute and transient psychotic disorder is characterised by acute onset of psychotic 
+symptoms that emerge without a prodrome and reach their maximal severity within 
+two weeks. Symptoms may include delusions, hallucinat ions, disorganisation of 
+thought processes, perplexity or confusion, and disturbances of affect and mood. 
+Catatonia -like psychomotor disturbances may be present. Symptoms typically 
+change rapidly, both in nature and intensity, from day to day, or even with in a single 
+day. The duration of the episode does not exceed 3 months, and most commonly 
+lasts from a few days to 1 month. The symptoms are not a manifestation of another 
+medical condition (e.g. a brain tumour) and are not due to the effect of a substance 
+or medication on the central nervous system (e.g. corticosteroids), including 
+withdrawal (e.g. alcohol withdrawal).  
+ 

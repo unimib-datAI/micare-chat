@@ -1,0 +1,36 @@
+6E61.0  Secondary psychotic syndrome, with hallucinations  
+
+
+A syndrome th at involves significant features related to speech or language 
+development that do not fulfill the diagnostic requirements of any of the specific 
+developmental speech or language disorders that is judged to be a direct 
+pathophysiological consequence of a h ealth condition not classified under mental 
+and behavioural disorders, based on evidence from the history, physical 
+examination, or laboratory findings. Possible etiologies include a disease of the 
+nervous system, sensory impairment, brain injury or infect ion. 
+Coding Note:  This diagnosis should be assigned in addition to the diagnosis for the presumed 
+underlying disorder or disease when the neurodevelopmental problems are 
+sufficiently severe to warrant specific clinical attention.  
+ 
+6E60.Y  Other specified se condary neurodevelopmental syndrome  
+Coding Note:  Code also the causing condition  
+ 588  ICD-11 MMS  
+ 6E60.Z  Secondary neurodevelopmental syndrome, unspecified  
+Coding Note:  Code also the causing condition  
+ 
+  6E61   Secondary psychotic syndrome  
+A syndrome characterised by the presence of prominent hallucinations or delusions 
+judged to be a direct pathophysiological consequence of a health condition not 
+classified under mental and behavioural disorders, based on evidence from the 
+history, physical examination, or laboratory find ings. The symptoms are not 
+accounted for by delirium or by another mental and behavioural disorder, and are 
+not a psychologically mediated response to a severe medical condition (e.g., an 
+acute stress reaction in response to a life -threatening diagnosis). This category 
+should be used in addition to the diagnosis for the presumed underlying disorder or 
+disease when the psychotic symptoms are sufficiently severe to warrant specific 
+clinical attention.  
+Coding Note:  Code also the causing condition  
+Exclusions:  Acute and transient psychotic disorder (6A23)  
+Delirium (6D70)  
+Mood disorders  (6A60‑6A8Z)  
+ 

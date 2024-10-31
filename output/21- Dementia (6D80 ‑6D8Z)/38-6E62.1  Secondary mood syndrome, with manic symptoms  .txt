@@ -1,0 +1,19 @@
+6E62.1  Secondary mood syndrome, with manic symptoms  
+
+
+A syndrome characterised by the presence of prominent depressive symptoms such 
+as persistently depressed mood, loss of interest in previously enjoyable activities, or 
+signs such as tearful and downtrodden a ppearance that is judged to be a direct 
+pathophysiological consequence of a health condition not classified under mental 
+and behavioural disorders based on evidence from the history, physical 
+examination, or laboratory findings. The symptoms are not accoun ted for by 
+delirium or by another mental and behavioural disorder, and are not a 
+psychologically mediated response to a severe medical condition (e.g., depressive 
+symptoms in response to a life -threatening diagnosis). This category should be 
+used in additi on to the diagnosis for the presumed underlying disorder or disease 
+when the mood symptoms are sufficiently severe to warrant specific clinical 
+attention.  
+Coding Note:  Code also the causing condition  
+Exclusions:  Adjustment disorder (6B43)  
+Delirium (6D70)  
+ 

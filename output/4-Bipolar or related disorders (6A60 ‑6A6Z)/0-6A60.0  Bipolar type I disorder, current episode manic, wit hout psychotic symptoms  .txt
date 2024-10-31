@@ -1,0 +1,29 @@
+6A60.0  Bipolar type I disorder, current episode manic, wit hout psychotic symptoms  
+
+  
+Bipolar and related disorders are episodic mood disorders defined by the occurrence of Manic, Mixed 
+or Hypomanic episodes or symptoms. These episodes typically alternate over the course of these 
+disorders with Depressive episodes or periods of depressive symptoms.  
+  6A60   Bipolar type I disorder  
+Bipolar type I disorder is an episodic mood disorder defined by the occurrence of 
+one or more manic or mixed episodes. A manic episode is an extreme mood state 
+lasting at least one week unless shortened by a treatment intervention 
+characterised by euphoria , irritability, or expansiveness, and by increased activity or 
+a subjective experience of increased energy, accompanied by other characteristic 
+symptoms such as rapid or pressured speech, flight of ideas, increased self -esteem 
+or grandiosity, decreased nee d for sleep, distractibility, impulsive or reckless 
+behaviour, and rapid changes among different mood states (i.e., mood lability). A 
+mixed episode is characterised by the presence of several prominent manic and 
+several prominent depressive symptoms consis tent with those observed in manic 
+episodes and depressive episodes, which either occur simultaneously or alternate 
+very rapidly (from day to day or within the same day). Symptoms must include an 
+altered mood state consistent with a manic and/or depressive episode (i.e., 
+depressed, dysphoric, euphoric or expansive mood), and be present most of the 
+day, nearly every day, during a period of at least 2 weeks, unless shortened by a 
+treatment intervention. Although the diagnosis can be made based on evidence of a  
+single manic or mixed episode, typically manic or mixed episodes alternate with 
+depressive episodes over the course of the disorder.  
+Exclusions:  Cyclothymia (6A62)  
+Bipolar type II disorder (6A61)  
+ 412  ICD-11 MMS  
+ 

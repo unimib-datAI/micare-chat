@@ -1,0 +1,61 @@
+6A05.0  Attention deficit hyperactivity disorder, predominantly inattentive 
+
+
+Developmental learning disorder with other specified impairment of learning is 
+characterised by significant and persistent difficulties  in learning academic skills 
+other than reading, mathematics, and written expression. The individual’s 
+performance in the relevant academic skill is markedly below what would be 
+expected for chronological age and level of intellectual functioning and resul ts in 
+significant impairment in the individual’s academic or occupational functioning. 
+Developmental learning disorder with other specified impairment of learning is not 
+due to a disorder of intellectual development, sensory impairment (vision or 
+hearing),  neurological disorder, lack of availability of education, lack of proficiency in 
+the language of academic instruction, or psychosocial adversity.  
+Exclusions:  Disorders of intellectual development (6A00)  
+ 
+6A03.Z  Developmental learning disorder, unspecified  
+ ICD-11 MMS  397 
+   6A04   Developmental motor coordination disorder  
+Developmental motor coordination disorder is characterised by a significant delay in 
+the acquisition of gross and fine motor skills and impairment in the execution of 
+coordinated motor skills that manife st in clumsiness, slowness, or inaccuracy of 
+motor performance. Coordinated motor skills are markedly below that expected 
+given the individual's chronological age and level of intellectual functioning. Onset of 
+coordinated motor skills difficulties occurs during the developmental period and is 
+typically apparent from early childhood. Coordinated motor skills difficulties cause 
+significant and persistent limitations in functioning (e.g. in activities of daily living, 
+school work, and vocational and leisure a ctivities). Difficulties with coordinated 
+motor skills are not solely attributable to a Disease of the Nervous System, Disease 
+of the Musculoskeletal System or Connective Tissue, sensory impairment, and not 
+better explained by a Disorder of Intellectual De velopment.  
+Exclusions:  Abnormalities of gait and mobility (MB44)  
+Diseases of the musculoskeletal system or connective tissue  
+(Chapter 15)  
+Diseases of the nervous system  (Chapter 08)  
+ 
+  6A05   Attention deficit hyperactivity disorder  
+Attention deficit hyperactivity disorder is characterised by a persistent pattern (at 
+least 6 months) of inattention and/or hyperactivity -impulsivity that has a direct 
+negative impact on academic, occupational, or s ocial functioning. There is evidence 
+of significant inattention and/or hyperactivity -impulsivity symptoms prior to age 12, 
+typically by early to mid -childhood, though some individuals may first come to 
+clinical attention later. The degree of inattention an d hyperactivity -impulsivity is 
+outside the limits of normal variation expected for age and level of intellectual 
+functioning. Inattention refers to significant difficulty in sustaining attention to tasks 
+that do not provide a high level of stimulation or f requent rewards, distractibility and 
+problems with organisation. Hyperactivity refers to excessive motor activity and 
+difficulties with remaining still, most evident in structured situations that require 
+behavioural self -control. Impulsivity is a tendency to act in response to immediate 
+stimuli, without deliberation or consideration of the risks and consequences. The 
+relative balance and the specific manifestations of inattentive and hyperactive -
+impulsive characteristics varies across individuals and may ch ange over the course 
+of development. In order for a diagnosis to be made, manifestations of inattention 
+and/or hyperactivity -impulsivity must be evident across multiple situations or 
+settings (e.g., home, school, work, with friends or relatives), but are l ikely to vary 
+according to the structure and demands of the setting. Symptoms are not better 
+accounted for by another mental, behavioural, or neurodevelopmental disorder and 
+are not due to the effect of a substance or medication.  
+Inclusions:  attention defi cit disorder with hyperactivity  
+attention deficit syndrome with hyperactivity  
+ 398  ICD-11 MMS  
+ 

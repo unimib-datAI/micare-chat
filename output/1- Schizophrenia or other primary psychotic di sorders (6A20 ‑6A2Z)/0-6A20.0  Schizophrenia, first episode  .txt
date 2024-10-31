@@ -1,0 +1,34 @@
+6A20.0  Schizophrenia, first episode  
+
+  
+Schizophrenia and other primary psychotic disorders are characterised by significant impairments in 
+reality testing and alterations in behaviour manifest in positive symptoms such as persistent 
+delusions, persistent hallucinations, diso rganised thinking (typically manifest as disorganised speech), 
+grossly disorganised behaviour, and experiences of passivity and control, negative symptoms such as 
+blunted or flat affect and avolition, and psychomotor disturbances. The symptoms occur with s ufficient 
+frequency and intensity to deviate from expected cultural or subcultural norms. These symptoms do 
+not arise as a feature of another mental and behavioural disorder (e.g., a mood disorder, delirium, or 
+a disorder due to substance use). The categor ies in this grouping should not be used to classify the 
+expression of ideas, beliefs, or behaviours that are culturally sanctioned.  
+Coded Elsewhere:  Substance -induced psychotic disorders  
+Secondary psychotic syndrome (6E61)  
+  6A20   Schizophrenia  
+Schizophre nia is characterised by disturbances in multiple mental modalities, 
+including thinking (e.g., delusions, disorganisation in the form of thought), 
+perception (e.g., hallucinations), self -experience (e.g., the experience that one's 
+feelings, impulses, though ts, or behaviour are under the control of an external 
+force), cognition (e.g., impaired attention, verbal memory, and social cognition), 
+volition (e.g., loss of motivation), affect (e.g., blunted emotional expression), and 
+behaviour (e.g., behaviour that a ppears bizarre or purposeless, unpredictable or 
+inappropriate emotional responses that interfere with the organisation of behaviour). 
+Psychomotor disturbances, including catatonia, may be present. Persistent 
+delusions, persistent hallucinations, thought di sorder, and experiences of influence, 
+passivity, or control are considered core symptoms. Symptoms must have persisted 
+for at least one month in order for a diagnosis of schizophrenia to be assigned. The 
+symptoms are not a manifestation of another health c ondition (e.g., a brain tumour) 
+and are not due to the effect of a substance or medication on the central nervous 
+system (e.g., corticosteroids), including withdrawal (e.g., alcohol withdrawal).  
+Exclusions:  Schizotypal disorder (6A22)  
+schizophrenic reactio n (6A22)  
+Acute and transient psychotic disorder (6A23)  
+ 

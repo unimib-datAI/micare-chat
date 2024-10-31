@@ -1,0 +1,45 @@
+6C4D.0  Episode of harmful use of dissociative drugs including ketamine or PCP  
+
+
+MDMA or related drug -induced anxiety disorder, including MDA is characterised by 
+anxiety symptoms (e.g., apprehension or worry, fear, physiological sy mptoms of 
+excessive autonomic arousal, avoidance behaviour) that develop during or soon 
+after intoxication with MDMA or related drugs. The intensity or duration of the 
+symptoms is substantially in excess of anxiety symptoms that are characteristic of 
+MDMA or related drug intoxication, including MDA. The amount and duration of 
+MDMA or related drug use must be capable of producing anxiety symptoms. The 
+symptoms are not better explained by a primary mental disorder (e.g., an Anxiety 
+and fear -related disorder, a Depressive disorder with prominent anxiety symptoms), 
+as might be the case if the anxiety symptoms preceded the onset of the MDMA or 
+related drug use, if the symptoms persist for a substantial period of time after 
+cessation of the MDMA or related drug us e, or if there is other evidence of a pre -
+existing primary mental disorder with anxiety symptoms (e.g., a history of prior 
+episodes not associated with MDMA or related drug use).  
+Coding Note:  Code also the causing condition  
+ 
+6C4C.Y  Other specified disorder s due to use of MDMA or related drugs, including 
+MDA  
+ 
+6C4C.Z  Disorders due to use of MDMA or related drugs, including MDA, unspecified  
+ 
+  6C4D   Disorders due to use of dissociative drugs including ketamine and 
+phencyclidine [PCP]  
+Disorders due to use of dissociative drugs including ketamine and phencyclidine 
+[PCP] are characterised by the pattern and consequences of dissociative drug use. 
+Dissociative drugs include ketamine and phencyclidine (PCP) and their 
+(comparatively rare) che mical analogues. Ketamine is an intravenous anaesthetic 
+widely used in low - and middle -income countries, particularly in Africa, and in 
+emergency situations. Ketamine is also undergoing evaluation for treatment of 
+some mental disorders (e.g., treatment res istant Depressive Disorders). It is also a 
+widespread drug of nonmedical use in many countries and may be taken by the oral 
+or nasal routes or injected. It produces a sense of euphoria but depending on the 
+dose, emergent hallucinations and dissociation are  recognised as unpleasant side 
+effects. Phencyclidine has a more restricted worldwide distribution and also has 
+euphoric and dissociative effects. Its use may result in bizarre behaviour 
+uncharacteristic for the individual, including self -harm. Dissociativ e Drug 
+Dependence is described but a withdrawal syndrome is not recognized by most 
+authorities. Several Dissociative Drug -Induced Mental Disorders are recognised.  
+Exclusions:  Hazardous use of dissociative drugs including ketamine or 
+PCP (QE11.7)  
+ 526  ICD-11 MMS  
+ 

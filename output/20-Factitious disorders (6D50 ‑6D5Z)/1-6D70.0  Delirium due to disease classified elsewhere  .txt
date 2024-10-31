@@ -1,0 +1,50 @@
+6D70.0  Delirium due to disease classified elsewhere  
+
+
+Malingering (QC30)  
+ ICD-11 MMS  569 
+   6D51   Factitious disorder imposed on another  
+Factitious disorder imposed on another is characterised by feigning, falsifying, or 
+inducing medical, psychological, or behavioural signs and symptoms or injury in 
+another person, most commonly a child dependent, associated with identified 
+deception. If a pre-existing disorder or disease is present in the other person, the 
+individual intentionally aggravates existing symptoms or falsifies or induces 
+additional symptoms. The individual seeks treatment for the other person or 
+otherwise presents him or her as ill, injured, or impaired based on the feigned, 
+falsified, or induced signs, symptoms, or injuries. The deceptive behaviour is not 
+solely motivated by obvious external rewards or incentives (e.g., obtaining disability 
+payments or avoiding criminal prosecut ion for child or elder abuse).  
+Coding Note:  The diagnosis of Factitious Disorder Imposed on Another is assigned to the 
+individual who is feigning, falsifying or inducing the symptoms in another person, not 
+to the person who is presented as having the sympt oms. Occasionally the individual 
+induces or falsifies symptoms in a pet rather than in another person.  
+Exclusions:  Malingering (QC30)  
+ 
+  6D5Z   Factitious disorders, unspecified  
+ 
+Neurocognitive disorders (6D70 ‑6E0Z)  
+Neurocognitive disorders are characteris ed by primary clinical deficits in cognitive functioning that are 
+acquired rather than developmental. That is, neurocognitive disorders do not include disorders 
+characterised by deficits in cognitive function that are present from birth or that typically a rise during 
+the developmental period, which are classified in the grouping neurodevelopmental disorders. Rather, 
+neurocognitive disorders represent a decline from a previously attained level of functioning. Although 
+cognitive deficits are present in many m ental disorders (e.g., schizophrenia, bipolar disorders), only 
+disorders whose core features are cognitive are included in the neurocognitive disorders grouping. In 
+cases where the underlying pathology and aetiology for neurocognitive disorders can be dete rmined, 
+the identified etiology should be classified separately.  
+Exclusions:  Neurodevelopmental disorders  (6A00‑6A0Z)  
+Coded Elsewhere:  Secondary neurocognitive syndrome (6E67)  
+  6D70   Delirium  
+Delirium is characterized by a disturbance of attention, orien tation, and awareness 
+that develops within a short period of time, typically presenting as significant 
+confusion or global neurocognitive impairment, with transient symptoms that may 
+fluctuate depending on the underlying causal condition or etiology. Delir ium often 
+includes disturbance of behaviour and emotion, and may include impairment in 
+multiple cognitive domains. A disturbance of the sleep -wake cycle, including 
+reduced arousal of acute onset or total sleep loss with reversal of the sleep -wake 
+cycle, ma y also be present. Delirium may be caused by the direct physiological 
+effects of a medical condition not classified under mental, behavioural or 
+neurodevelopmental disorders, by the direct physiological effects of a substance or 
+medication, including withd rawal, or by multiple or unknown etiological factors.  
+ 570  ICD-11 MMS  
+ 

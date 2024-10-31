@@ -1,0 +1,42 @@
+6C45.0  Episode of harmful use of cocaine  
+
+
+Sedative, hypnotic or anxiolytic -induced anxiety disorder is characterised by anxiety 
+symptoms (e.g., apprehension or worry, fear, physiological symptoms of excessive 
+autonomic arousal, avoidance behaviour) that develop during or soon after 
+intoxication with or withdrawal from sedatives, hypnotics or anxiolytics. The intensity 
+or duration of the symptoms is substantially in excess of anxiety symptoms that are 
+characteristic of intoxication or withdrawal due to sedatives, hypnotics or anxiolytics. 
+The amount and duration of sedative, hypnot ic or anxiolytic use must be capable of 
+producing anxiety symptoms. The symptoms are not better explained by a primary 
+mental disorder (e.g., an Anxiety and Fear -Related Disorder, a Depressive Disorder 
+with prominent anxiety symptoms), as might be the case  if the anxiety symptoms 
+preceded the onset of the sedative, hypnotic or anxiolytic use, if the symptoms 
+persist for a substantial period of time after cessation of the sedative, hypnotic or 
+anxiolytic use or withdrawal, or if there is other evidence of a pre-existing primary 
+mental disorder with anxiety symptoms (e.g., a history of prior episodes not 
+associated with sedative, hypnotic or anxiolytic use).  
+Coding Note:  Code also the causing condition  
+ 
+6C44.Y  Other specified disorders due to use of sedatives,  hypnotics or anxiolytics  
+ 
+6C44.Z  Disorders due to use of sedatives, hypnotics or anxiolytics, unspecified  
+ 
+  6C45   Disorders due to use of cocaine  
+Disorders due to use of cocaine are characterised by the pattern and consequences 
+of cocaine use. Cocaine i s a compound found in the leaves of the coca plant, 
+Erythroxylum coca, which is indigenous to countries in northern regions of South 
+America. Cocaine has a limited place in medical treatment as an anaesthetic and 
+vasoconstrictive agent. It is commonly used  illicitly and widely available across the 
+world, where it is found in two main forms: cocaine hydrochloride and cocaine 
+freebase (also known as ‘crack’). Cocaine is a central nervous system stimulant, 
+and Cocaine Intoxication typically includes a state of  euphoria and hyperactivity. 
+Cocaine has potent dependence -producing properties and Cocaine Dependence is 
+a common cause of morbidity and of clinical presentations. Cocaine Withdrawal has 
+a characteristic course that includes lethargy and depressed mood. A  range of 
+Cocaine -Induced Mental Disorders is described.  
+Exclusions:  Disorders due to use of stimulants including amphetamines, 
+methamphetamine or methcathinone (6C46)  
+Hazardous use of cocaine (QE11.3)  
+ 484  ICD-11 MMS  
+ 

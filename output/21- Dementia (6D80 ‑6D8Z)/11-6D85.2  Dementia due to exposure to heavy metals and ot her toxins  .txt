@@ -1,0 +1,16 @@
+6D85.2  Dementia due to exposure to heavy metals and ot her toxins  
+
+
+Dementia due to Huntington disease occurs as part of a widespread degeneration 
+of the brain due to a trinucleotide repeat expansion in the HTT gene, which is 
+transmitted through autosomal dominance. Onset of symptoms is insidious typically 
+in the third and fourth decade of life with gradual and slow progression. Initial 
+symptoms typically include impairments in executive functions with relative s paring 
+of memory, prior to the onset of motor deficits (bradykinesia and chorea) 
+characteristic of Huntington disease.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional code s when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+Inclusions:  Dementia in Huntington chorea  
+ 

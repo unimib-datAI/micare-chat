@@ -1,0 +1,22 @@
+6C43.4  Opioid withdrawal  
+
+
+Opioid intoxication is a clinically significant transient condition that develops during 
+or shortly after the consumption of opioids that is cha racterised by disturbances in 
+consciousness, cognition, perception, affect, behaviour, or coordination. These 
+disturbances are caused by the known pharmacological effects of opioids and their 
+intensity is closely related to the amount of opioids consumed. They are time -limited 
+and abate as opioids are cleared from the body. Presenting features may include 
+somnolence, stupor, mood changes (e.g. euphoria followed by apathy and 
+dysphoria), psychomotor retardation, impaired judgment, respiratory depression, 
+slurred speech, and impairment of memory and attention. In severe intoxication 
+coma may ensue. A characteristic physical sign is pupillary constriction but this sign 
+may be absent when intoxication is due to synthetic opioids. Severe opioid 
+intoxication can l ead to death due to respiratory depression.  
+Coding Note:  Code also the causing condition  
+Exclusions:  opioid poisoning (NE60)  
+Possession trance disorder (6B63)  
+fentanyl poisoning (NE60)  
+oxycodone poisoning (NE60)  
+ ICD-11 MMS  475 
+ 

@@ -1,0 +1,20 @@
+6C41.4  Cannabis withdrawal  
+
+
+Cannabis intoxication is a clinically significant transient condition that develops 
+during or shortly after the consumption of cannabis that is characterised by 
+disturbances in consciousness, cognition, perception, affect, behaviour, or 
+coordination. These disturbances are caused by the known pharmacological effects 
+of cannabis and their intensity is closely related to the amount of cannab is 
+consumed. They are time -limited and abate as cannabis is cleared from the body. 
+Presenting features may include inappropriate euphoria, impaired attention, 
+impaired judgment, perceptual alterations (such as the sensation of floating, altered 
+perception of time), changes in sociability, increased appetite, anxiety, 
+intensification of ordinary experiences, impaired short -term memory, and 
+sluggishness. Physical signs include conjunctival injection (red or bloodshot eyes) 
+and tachycardia.  
+Coding Note:  Code a lso the causing condition  
+Inclusions:  "Bad trips" due to cannabinoids  
+Exclusions:  cannabinoid poisoning (NE60)  
+Possession trance disorder (6B63)  
+ 

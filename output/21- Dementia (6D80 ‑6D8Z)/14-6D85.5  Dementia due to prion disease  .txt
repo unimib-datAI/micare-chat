@@ -1,0 +1,14 @@
+6D85.5  Dementia due to prion disease  
+
+
+Dementia due to multiple sclerosis is a neurodegenerative disease due to the 
+cerebral effects of multiple sclerosis, a demyelinating disease. Onset of symptoms 
+is insidious and not secondary to the functional impairment attributable to the 
+primary disease (i.e., multiple sclerosis). Cognitive impairments vary according to 
+the location of demyelination but typically include deficits in processing speed, 
+memory, attention, and aspects of executive functioning.  
+Coding Note:  This category should never be used i n primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 

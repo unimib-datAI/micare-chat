@@ -1,0 +1,31 @@
+6C50.0  Gambling disorder,  predominantly offline  
+
+  
+Disorders due to addictive behaviours are recognizable and clinically significant syndromes 
+associated with distress or interference with personal functions that develop as a result of repetitive 
+rewarding beh aviours other than the use of dependence -producing substances. Disorders due to 
+addictive behaviours include gambling disorder and gaming disorder, which may involve both online 
+and offline behaviour.  
+Exclusions:  Compulsive sexual behaviour disorder (6C72)  
+Paraphilic disorders  (6D30‑6D3Z)  
+  6C50   Gambling disorder  
+Gambling disorder is characterised by a pattern of persistent or recurrent gambling 
+behaviour, which may be online (i.e., over the internet) or offline, manifested by:  
+1. impaired control over gambling (e.g., onset, frequency, intensity, duration, 
+termination, context);  
+2. increasing priority given to gambling to the extent that gambling takes 
+precedence over other life interests and daily activities; and  
+3. continuation  or escalation of gambling despite the occurrence of negative 
+consequences.  
+The pattern of gambling behaviour may be continuous or episodic and recurrent. 
+The pattern of gambling behaviour results in significant distress or in significant 
+impairment in per sonal, family, social, educational, occupational or other important 
+areas of functioning. The gambling behaviour and other features are normally 
+evident over a period of at least 12 months in order for a diagnosis to be assigned, 
+although the required dura tion may be shortened if all diagnostic requirements are 
+met and symptoms are severe.  
+Inclusions:  Compulsive gambling  
+Exclusions:  Bipolar type I disorder (6A60)  
+Bipolar type II disorder (6A61)  
+Hazardous gambling or betting (QE21)  
+ 

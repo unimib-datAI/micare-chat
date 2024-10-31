@@ -1,0 +1,115 @@
+  
+Anxiety and fear -related disorders are characterised by excessive fear and anxiety and related 
+behavioural disturbances, with symptoms that are severe enough to result in significant distress or 
+significant impairment in personal, family, social, education al, occupational, or other important areas 
+of functioning. Fear and anxiety are closely related phenomena; fear represents a reaction to 
+perceived imminent threat in the present, whereas anxiety is more future -oriented, referring to 
+perceived anticipated t hreat. A key differentiating feature among the Anxiety and fear -related 
+disorders are disorder -specific foci of apprehension, that is, the stimulus or situation that triggers the 
+fear or anxiety. The clinical presentation of Anxiety and fear -related disord ers typically includes 
+specific associated cognitions that can assist in differentiating among the disorders by clarifying the 
+focus of apprehension.  
+Coded Elsewhere:  Substance -induced anxiety disorders  
+Hypochondriasis (6B23)  
+Secondary anxiety syndrome (6E 63) 
+  6B00   Generalised anxiety disorder  
+Generalised anxiety disorder is characterised by marked symptoms of anxiety that 
+persist for at least several months, for more days than not, manifested by either 
+general apprehension (i.e. ‘free -floating anxiety’)  or excessive worry focused on 
+multiple everyday events, most often concerning family, health, finances, and 
+school or work, together with additional symptoms such as muscular tension or 
+motor restlessness, sympathetic autonomic over -activity, subjective e xperience of 
+nervousness, difficulty maintaining concentration, irritability, or sleep disturbance. 
+The symptoms result in significant distress or significant impairment in personal, 
+family, social, educational, occupational, or other important areas of fu nctioning. 
+The symptoms are not a manifestation of another health condition and are not due 
+to the effects of a substance or medication on the central nervous system.  
+ 430  ICD-11 MMS  
+   6B01   Panic disorder  
+Panic disorder is characterised by recurrent unexpected panic at tacks that are not 
+restricted to particular stimuli or situations. Panic attacks are discrete episodes of 
+intense fear or apprehension accompanied by the rapid and concurrent onset of 
+several characteristic symptoms (e.g. palpitations or increased heart ra te, sweating, 
+trembling, shortness of breath, chest pain, dizziness or lightheadedness, chills, hot 
+flushes, fear of imminent death). In addition, panic disorder is characterised by 
+persistent concern about the recurrence or significance of panic attacks, or 
+behaviours intended to avoid their recurrence, that results in significant impairment 
+in personal, family, social, educational, occupational, or other important areas of 
+functioning. The symptoms are not a manifestation of another medical condition and 
+are not due to the effects of a substance or medication on the central nervous 
+system.  
+Exclusions:  Panic attack (MB23.H)  
+ 
+  6B02   Agoraphobia  
+Agoraphobia is characterised by marked and excessive fear or anxiety that occurs 
+in response to multiple situatio ns where escape might be difficult or help might not 
+be available, such as using public transportation, being in crowds, being outside the 
+home alone (e.g., in shops, theatres, standing in line). The individual is consistently 
+anxious about these situation s due to a fear of specific negative outcomes (e.g., 
+panic attacks, other incapacitating or embarrassing physical symptoms). The 
+situations are actively avoided, entered only under specific circumstances such as 
+in the presence of a trusted companion, or e ndured with intense fear or anxiety. The 
+symptoms persist for at least several months, and are sufficiently severe to result in 
+significant distress or significant impairment in personal, family, social, educational, 
+occupational, or other important areas of functioning.  
+ 
+  6B03   Specific phobia  
+Specific phobia is characterised by a marked and excessive fear or anxiety that 
+consistently occurs upon exposure or anticipation of exposure to one or more 
+specific objects or situations (e.g., proximity to certain animals, flying, heights, 
+closed spaces,  sight of blood or injury) that is out of proportion to actual danger. 
+The phobic objects or situations are avoided or else endured with intense fear or 
+anxiety. Symptoms persist for at least several months and are sufficiently severe to 
+result in signific ant distress or significant impairment in personal, family, social, 
+educational, occupational, or other important areas of functioning.  
+Inclusions:  Simple phobia  
+Exclusions:  Body dysmorphic disorder (6B21)  
+Hypochondriasis (6B23)  
+ ICD-11 MMS  431 
+   6B04   Social anxiety di sorder  
+Social anxiety disorder is characterised by marked and excessive fear or anxiety 
+that consistently occurs in one or more social situations such as social interactions 
+(e.g. having a conversation), doing something while feeling observed (e.g. eating or 
+drinking in the presence of others), or performing in front of others (e.g. giving a 
+speech). The individual is concerned that he or she will act in a way, or show 
+anxiety symptoms, that will be negatively evaluated by others. Relevant social 
+situations  are consistently avoided or else endured with intense fear or anxiety. The 
+symptoms persist for at least several months and are sufficiently severe to result in 
+significant distress or significant impairment in personal, family, social, educational, 
+occup ational, or other important areas of functioning.  
+ 
+  6B05   Separation anxiety disorder  
+Separation anxiety disorder is characterised by marked and excessive fear or 
+anxiety about separation from specific attachment figures. In children and 
+adolescents, sep aration anxiety typically focuses on caregivers, parents or other 
+family members and the fear or anxiety is beyond what would be considered 
+developmentally normative. In adults, the focus is typically a romantic partner or 
+children. Manifestations of separ ation anxiety may include thoughts of harm or 
+untoward events befalling the attachment figure, reluctance to go to school or work, 
+recurrent excessive distress upon separation, reluctance or refusal to sleep away 
+from the attachment figure, and recurrent n ightmares about separation. The 
+symptoms persist for at least several months and are sufficiently severe to result in 
+significant distress or significant impairment in personal, family, social, educational, 
+occupational, or other important areas of functio ning.  
+Exclusions:  mood [affective] disorders  (6A60‑6A8Z)  
+Selective mutism (6B06)  
+Social anxiety disorder (6B04)  
+ 
+  6B06   Selective mutism  
+Selective mutism is characterised by consistent selectivity in speaking, such that a 
+child demonstrates adequate lang uage competence in specific social situations, 
+typically at home, but consistently fails to speak in others, typically at school. The 
+disturbance lasts for at least one month, is not limited to the first month of school, 
+and is of sufficient severity to in terfere with educational achievement or with social 
+communication. Failure to speak is not due to a lack of knowledge of, or comfort 
+with, the spoken language required in the social situation (e.g. a different language 
+spoken at school than at home).  
+Exclu sions:  Schizophrenia (6A20)  
+transient mutism as part of separation anxiety in young 
+children (6B05)  
+Autism spectrum disorder (6A02)  
+ 
+  6B0Y   Other specified anxiety or fear -related disorders  
+ 
+  6B0Z   Anxiety or fear -related disorders, unspecified  
+ 432  ICD-11 MMS  

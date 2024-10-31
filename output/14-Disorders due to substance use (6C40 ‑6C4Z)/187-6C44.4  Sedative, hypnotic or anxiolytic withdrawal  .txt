@@ -1,0 +1,22 @@
+6C44.4  Sedative, hypnotic or anxiolytic withdrawal  
+
+
+Sedative, hypnotic or anxiolyti c intoxication is a clinically significant transient 
+condition that develops during or shortly after the consumption of sedatives, 
+hypnotics or anxiolytics that is characterised by disturbances in consciousness, 
+cognition, perception, affect, behaviour, or  coordination. These disturbances are 
+caused by the known pharmacological effects of sedatives, hypnotics or anxiolytics 
+and their intensity is closely related to the amount of sedatives, hypnotics or 
+anxiolytics consumed. They are time -limited and abate a s sedatives, hypnotics or 
+anxiolytics are cleared from the body. Presenting features may include somnolence, 
+impaired judgment, inappropriate behavior (including sexual behavior or 
+aggression), slurred speech, impaired motor coordination, unsteady gait, mo od 
+changes, as well as impaired memory, attention and concentration. Nystagmus 
+(repetitive, uncontrolled eye movements) is a common physical sign. In severe 
+cases stupor or coma may occur.  
+Coding Note:  Code also the causing condition  
+Inclusions:  "Bad trips" due to sedatives, hypnotics or anxiolytics  
+Exclusions:  sedative, hypnotic drugs and other CNS depressants 
+poisoning (NE60)  
+Possession trance disorder (6B63)  
+ 

@@ -1,0 +1,53 @@
+6D85.2)  
+
+
+ 
+  6D82   Dementia due to Lewy body disease  
+Dementia preceding or occurring within one year after the onset of motor 
+parkinsonian signs in the setting of Lewy body disease. Characterized by presence 
+of Lewy bodies, which are intraneuronal inclusions containing α -synuclein and 
+ubiquitin in the brain stem, limbic area, forebrain, and neocortex. Onset is insidious 
+with attentional and executive functioning deficits often present. These cognitive 
+deficits are often accompanied by visual hallucinations and symptoms of REM sleep 
+behaviour disorder. Halluci nations in other sensory modalities, depressive 
+symptoms, and delusions may also be present. The symptom presentation usually 
+varies significantly over the course of days necessitating longitudinal assessment 
+and differentiation from delirium. Spontaneous onset of Parkinsonism within 
+approximately 1 year of the onset of cognitive symptoms is common.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to  identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 
+  6D83   Frontotemporal dementia  
+Frontotemporal dementia (FTD) is a group of primary neurodegenerative disorders 
+primar ily affecting the frontal and temporal lobes. Onset is typically insidious with a 
+gradual and worsening course. Several syndromic variants (some with an identified 
+genetic basis or familiality) are described that include presentations with 
+predominantly ma rked personality and behavioral changes (such as executive 
+dysfunction, apathy, deterioration of social cognition, repetitive behaviours, and 
+dietary changes), predominantly language deficits (that include semantic, 
+agrammatic/nonfluent, and logopenic form s), predominantly movement -related 
+deficits (progressive supranuclear palsy, corticobasal degeneration, multiple 
+systems atrophy, or amyotrophic lateral sclerosis), or a combination of these 
+deficits. Memory function often remains relatively intact, partic ularly during the early 
+stages of the disorder.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases c lassified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ ICD-11 MMS  577 
+   6D84   Dementia due to psychoactive substances including medications  
+Dementia due to psychoactive substances including medications includes forms of 
+dementia that ar e judged to be a direct consequence of substance use and that 
+persist beyond the usual duration of action or withdrawal syndrome associated with 
+the substance. The amount and duration of substance use must be sufficient to 
+produce the cognitive impairment.  The cognitive impairment is not better accounted 
+for by a disorder that is not induced by substances such as a dementia due to 
+another medical condition.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use  as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+Exclusions:  Dementia due to exposure to heavy metals and othe r toxins 
+(

@@ -1,0 +1,17 @@
+6D85.6  Dementia due to normal pressure hydrocephalus  
+
+
+Dementia due to prion disease is a primary neurodegenerative disease caused by a 
+group of spongiform encephalopathies resulting from abnormal prion protein 
+accumulation in the brain. These can be sporadic, genetic (caused by mu tations in 
+the prion -protein gene), or transmissible (acquired from an infected individual). 
+Onset is insidious and there is a rapid progression of symptoms and impairment 
+characterised by cognitive deficits, ataxia, and motor symptoms (myoclonus, 
+chorea, or dystonia). Diagnosis is typically made on the basis of brain imaging 
+studies, presence of characteristic proteins in spinal fluid, EEG, or genetic testing.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ ICD-11 MMS  581 
+ 

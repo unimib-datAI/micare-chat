@@ -1,0 +1,83 @@
+6E40.0  Mental disorder affecting disorders or diseases classified elsewhere  
+
+
+In addition to the cognitive disturbances characteristic of dementia, the current 
+clinical picture includes clinically significant wandering that puts the person at risk of 
+harm.  
+ 
+6D86.Y  Other specified behavioural or psychological disturbances in dementia  
+Coding Note:  These categories should never be used in primary tabulation. The codes are 
+provided for use as supplementary or addit ional codes when it is desired to identify 
+the presence of behavioural or psychological disturbance in dementia.  
+Code all that apply.  
+ 
+6D86.Z  Behavioural or psychological disturbances in dementia, unspecified  
+Coding Note:  These categories should never be used in primary tabulation. The codes are 
+provided for use as supplementary or additional codes when it is desired to identify 
+the presence of behavioural or psychological disturbance in dementia.  
+Code all that apply.  
+ 
+  6D8Y   Dementia, other specified cause  
+Coding Note:  This category should only be used for primary tabulation, if the aetiology of the 
+dementia is unknown. If the aetiology of the dementia is known code to the 
+aetiology of the dementia for primary tabulation.  
+When dementia is due to multiple aetiologies, co de all that apply.  
+ 584  ICD-11 MMS  
+   6D8Z   Dementia, unknown or unspecified cause  
+Coding Note:  This category should only be used for primary tabulation, if the aetiology of the 
+dementia is unknown. If the aetiology of the dementia is known code to the 
+aetiology of the d ementia for primary tabulation.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 
+  6E0Y   Other specified neurocognitive disorders  
+ 
+  6E0Z   Neurocognitive disorders, unspecified  
+ 
+Mental or behavioural disorders associated with pregnanc y, childbirth or the puerperium 
+(6E20‑6E2Z)  
+Syndromes associated with pregnancy or the puerperium (commencing within about 6 weeks after 
+delivery) that involve significant mental and behavioural features. If the symptoms meet the diagnostic 
+requirements fo r a specific mental disorder, that diagnosis should also be assigned.  
+Coded Elsewhere:  Psychological disorder related to obstetric fistula (GC04.1Y)  
+  6E20   Mental or behavioural disorders associated with pregnancy, childbirth 
+or the puerperium, without p sychotic symptoms  
+A syndrome associated with pregnancy or the puerperium (commencing within 
+about 6 weeks after delivery) that involves significant mental and behavioural 
+features, most commonly depressive symptoms. The syndrome does not include 
+delusions,  hallucinations, or other psychotic symptoms. If the symptoms meet the 
+diagnostic requirements for a specific mental disorder, that diagnosis should also be 
+assigned. This designation should not be used to describe mild and transient 
+depressive symptoms th at do not meet the diagnostic requirements for a depressive 
+episode, which may occur soon after delivery (so -called postpartum blues).  
+Coding Note:  Code also the causing condition  
+ 
+  6E21   Mental or behavioural disorders associated with pregnancy, childbi rth 
+or the puerperium, with psychotic symptoms  
+A syndrome associated with pregnancy or the puerperium (commencing within 
+about 6 weeks after delivery) that involves significant mental and behavioural 
+features, including delusions, hallucinations, or other psychotic symptoms. Mood 
+symptoms (depressive and/or manic) are also typically present. If the symptoms 
+meet the diagnostic requirements for a specific mental disorder, that diagnosis 
+should also be assigned.  
+Coding Note:  Code also the causing condition  
+ 
+  6E2Z   Mental or behavioural disorders associated with pregnancy, childbirth 
+or the puerperium, unspecified  
+ ICD-11 MMS  585 
+   6E40   Psychological or behavioural factors affecting disorders or diseases 
+classified elsewhere  
+Psychological and behavioural factors affecting disorders or diseases classified 
+elsewhere are those that may adversely affect the manifestation, treatment, or 
+course  of a condition classified in another chapter of the ICD. These factors may 
+adversely affect the manifestation, treatment, or course of the disorder or disease 
+classified in another chapter by: interfering with the treatment of the disorder or 
+disease by a ffecting treatment adherence or care seeking; constituting an additional 
+health risk; or influencing the underlying pathophysiology to precipitate or 
+exacerbate symptoms or otherwise necessitate medical attention. This diagnosis 
+should be assigned only whe n the factors increase the risk of suffering, disability, or 
+death and represent a focus of clinical attention, and should be assigned together 
+with the diagnosis for the relevant other condition.  
+Inclusions:  Psychological factors affecting physical condit ions 
+Exclusions:  Mental or behavioural disorders associated with pregnancy, 
+childbirth or the puerperium  (6E20‑6E2Z)  
+ 

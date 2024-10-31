@@ -1,0 +1,35 @@
+6B20.0  Obsessive -compulsive disorder with fair to good insight  
+
+  
+Obsessive -compulsive and related disorders is a group of disorders characterised by repetitive 
+thoughts and behaviours that are believed to share similari ties in aetiology and key diagnostic 
+validators. Cognitive phenomena such as obsessions, intrusive thoughts and preoccupations are 
+central to a subset of these conditions (i.e., obsessive -compulsive disorder, body dysmorphic 
+disorder, hypochondriasis, and olfactory reference disorder) and are accompanied by related 
+repetitive behaviours. Hoarding Disorder is not associated with intrusive unwanted thoughts but rather 
+is characterised by a compulsive need to accumulate possessions and distress related to disc arding 
+them. Also included in the grouping are body -focused repetitive behaviour disorders, which are 
+primarily characterised by recurrent and habitual actions directed at the integument (e.g., hair -pulling, 
+skin-picking) and lack a prominent cognitive asp ect. The symptoms result in significant distress or 
+significant impairment in personal, family, social, educational, occupational, or other important areas 
+of functioning.  
+Coded Elsewhere:  Substance -induced obsessive -compulsive or related disorders  
+Secondary obsessive -compulsive or related syndrome (6E64)  
+Tourette syndrome (8A05.00)  
+  6B20   Obsessive -compulsive disorder  
+Obsessive -Compulsive Disorder is characterised by the presence of persistent 
+obsessions or compulsions, or most commonly both. Obse ssions are repetitive and 
+persistent thoughts, images, or impulses/urges that are intrusive, unwanted, and are 
+commonly associated with anxiety. The individual attempts to ignore or suppress 
+obsessions or to neutralize them by performing compulsions. Compu lsions are 
+repetitive behaviours including repetitive mental acts that the individual feels driven 
+to perform in response to an obsession, according to rigid rules, or to achieve a 
+sense of ‘completeness’. In order for obsessive -compulsive disorder to be 
+diagnosed, obsessions and compulsions must be time consuming (e.g. taking more 
+than an hour per day) or result in significant distress or significant impairment in 
+personal, family, social, educational, occupational or other important areas of 
+functioning.  
+Inclusions:  anankastic neurosis  
+obsessive -compulsive neurosis  
+Exclusions:  obsessive compulsive behaviour (MB23.4)  
+ 

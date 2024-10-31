@@ -1,0 +1,40 @@
+  
+Catatonia is a syndrome of primarily psychomotor disturbances, characterized by the co -occurrence 
+of several symptoms of decreased, increased, or abnormal psychomotor activity. The assessment of 
+catatonia is complex and requires observation, interview and physical exam. Catatonia can occur in 
+the context of another mental disorder, such as Schizophrenia or Other Primary Psychotic Disorders, 
+Mood Disorders, and Neurodevelopmental Disorders, especially Autism Spectrum Disorder. Catatonia 
+can also develop duri ng or soon after intoxication or withdrawal from certain psychoactive substances, 
+including phencyclidine (PCP), cannabis, hallucinogens such as mescaline or LSD, cocaine and 
+MDMA or related drugs, or during the use of certain psychoactive and non -psychoac tive medications 
+(e.g. antipsychotic medications, benzodiazepines, steroids, disulfiram, ciprofloxacin). Finally, 
+Catatonia can occur as a direct pathophysiological consequence of a medical condition not classified 
+under Mental, Behavioural or Neurodevelop mental Disorders. Examples of medical conditions that 
+may be associated with Catatonia include diabetic ketoacidosis, hypercalcemia, hepatic 
+encephalopathy, homocystinuria, neoplasms head trauma, cerebrovascular disease, and encephalitis.  
+Exclusions:  Harmf ul effects of drugs, medicaments or biological substances, not elsewhere 
+classified (NE60)  
+Coded Elsewhere:  Secondary catatonia syndrome (6E69)  
+  6A40   Catatonia associated with another mental disorder  
+Catatonia associated with another mental disorder is a syndrome of primarily 
+psychomotor disturbances, characterized by the co -occurrence of several 
+symptoms of decreased, increased, or abnormal psychomotor activity, which occurs 
+in the context of another mental disorder, such as Schizophrenia or Other Prima ry 
+Psychotic Disorders, Mood Disorders, and Neurodevelopmental Disorders, 
+especially Autism Spectrum Disorder.  
+ 410  ICD-11 MMS  
+   6A41   Catatonia induced by substances or medications  
+Catatonia induced by substances or medications is a syndrome of primarily 
+psychomotor di sturbances, characterized by the co -occurrence of several 
+symptoms of decreased, increased, or abnormal psychomotor activity, which 
+develops during or soon after intoxication or withdrawal from certain psychoactive 
+substances, including phencyclidine (PCP) , cannabis, hallucinogens such as 
+mescaline or LSD, cocaine and MDMA or related drugs, or during the use of certain 
+psychoactive and non -psychoactive medications (e.g. antipsychotic medications, 
+benzodiazepines, steroids, disulfiram, ciprofloxacin).  
+Exclus ions:  Neuroleptic malignant syndrome  (8A00‑8A0Z)  
+Serotonin syndrome (8D85)  
+ 
+  6A4Z   Catatonia, unspecified  
+Coding Note:  Code also the causing condition  
+ ICD-11 MMS  411 

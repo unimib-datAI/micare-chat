@@ -1,0 +1,17 @@
+6D85.7  Dementia due to injury to the head  
+
+
+Dem entia due to normal pressure hydrocephalus results from excess accumulation 
+of cerebrospinal fluid in the brain as a result of idiopathic, non -obstructive causes 
+but can also be secondary to haemorrhage, infection or inflammation. Progression 
+is gradual bu t intervention (e.g., shunt) may result in improvement of symptoms, 
+especially if administered earlier in the course of the condition. Typically, cognitive 
+impairments include reduced processing speed and deficits in executive functioning 
+and attention. Th ese symptoms are also typically accompanied by gait 
+abnormalities and urinary incontinence. Brain imaging to reveal ventricular volume 
+and characterize brain displacement is often necessary to confirm the diagnosis.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 

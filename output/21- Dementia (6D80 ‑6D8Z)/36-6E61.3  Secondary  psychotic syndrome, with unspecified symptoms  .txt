@@ -1,0 +1,17 @@
+6E61.3  Secondary  psychotic syndrome, with unspecified symptoms  
+
+
+A syndrome characterised by the presence of both prominent hallucinations and 
+prominent delusions that is judged to  be a direct pathophysiological consequence of 
+a health condition not classified under mental and behavioural disorders, based on 
+evidence from the history, physical examination, or laboratory findings. The 
+symptoms are not accounted for by delirium or by another mental and behavioural 
+disorder, and are not a psychologically mediated response to a severe medical 
+condition (e.g., an acute stress reaction in response to a life -threatening diagnosis). 
+This category should be used in addition to the diagnosis f or the presumed 
+underlying disorder or disease when the psychotic symptoms are sufficiently severe 
+to warrant specific clinical attention.  
+Coding Note:  Code also the causing condition  
+Exclusions:  Delirium (6D70)  
+Mood disorders  (6A60‑6A8Z)  
+ 

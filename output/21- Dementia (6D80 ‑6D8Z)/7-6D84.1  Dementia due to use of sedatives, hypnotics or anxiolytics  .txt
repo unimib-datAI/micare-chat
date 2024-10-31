@@ -1,0 +1,23 @@
+6D84.1  Dementia due to use of sedatives, hypnotics or anxiolytics  
+
+
+Dementia due to use of alcohol is characterised by the development of persistent 
+cognitive impairments (e.g., memory problems, language impairment, and an 
+inability to perform complex motor tasks) th at meet the definitional requirements of 
+Dementia that are judged to be a direct consequence of alcohol use and that persist 
+beyond the usual duration of alcohol intoxication or acute withdrawal. The intensity 
+and duration of alcohol use must have been suf ficient to produce the cognitive 
+impairment. The cognitive impairment is not better accounted for by a disorder or 
+disease that is not induced by alcohol such as a dementia due to another disorder 
+or disease classified elsewhere.  
+Coding Note:  This category  should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code al l that apply.  
+This category should not be used to describe cognitive changes due to thiamine 
+deficiency associated with chronic alcohol use.  
+Inclusions:  Alcohol -induced dementia  
+Exclusions:  Wernicke -Korsakoff Syndrome (5B5A.1)  
+Korsakoff syndrome (5B5A.11)  
+ 578  ICD-11 MMS  
+ 

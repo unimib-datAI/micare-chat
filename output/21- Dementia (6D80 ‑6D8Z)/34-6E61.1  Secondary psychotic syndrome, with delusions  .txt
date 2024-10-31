@@ -1,0 +1,18 @@
+6E61.1  Secondary psychotic syndrome, with delusions  
+
+
+A syndrome characterised by the presence of prominent hallucinations that is 
+judged to be a direct pathophysiological consequence of a health condition not 
+classified under mental and behavioural disorders, based on evidence from the 
+history, physical exam ination, or laboratory findings. Delusions are not a prominent 
+aspect of the clinical presentation. The symptoms are not accounted for by delirium 
+or by another mental and behavioural disorder, and are not a psychologically 
+mediated response to a severe me dical condition (e.g., an acute stress reaction in 
+response to a life -threatening diagnosis). This category should be used in addition 
+to the diagnosis for the presumed underlying disorder or disease when the 
+psychotic symptoms are sufficiently severe to w arrant specific clinical attention.  
+Coding Note:  Code also the causing condition  
+Exclusions:  Delirium (6D70)  
+Mood disorders  (6A60‑6A8Z)  
+ ICD-11 MMS  589 
+ 

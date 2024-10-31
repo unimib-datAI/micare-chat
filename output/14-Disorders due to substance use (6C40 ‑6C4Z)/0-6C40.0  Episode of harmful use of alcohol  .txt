@@ -1,0 +1,34 @@
+6C40.0  Episode of harmful use of alcohol  
+
+  
+Disorders due to substance use include disorders that result from a single occasion or repeated use 
+of substances that have psychoactive prop erties, including certain medications. Disorders related to 
+fourteen classes or groups of psychoactive substances are included. Typically, initial use of these 
+substances produces pleasant or appealing psychoactive effects that are rewarding and reinforcin g 
+with repeated use. With continued use, many of the included substances have the capacity to 
+produce dependence. They also have the potential to cause numerous forms of harm, both to mental 
+and physical health. Disorders due to harmful non -medical use of non-psychoactive substances are 
+also included in this grouping.  
+Coded Elsewhere:  Catatonia induced by substances or medications (6A41)  
+  6C40   Disorders due to use of alcohol  
+Disorders due to use of alcohol are characterised by the pattern and consequence s 
+of alcohol use. Alcohol —more specifically termed ethyl alcohol or ethanol —is an 
+intoxicating compound produced by fermentation of sugars usually in agricultural 
+products such as fruits, cereals, and vegetables with or without subsequent 
+distillation. The re are a wide variety of alcoholic drinks, with alcohol concentrations 
+typically ranging from 1.5% to 60%. Alcohol is predominantly a central nervous 
+system depressant. In addition to ability to produce Alcohol Intoxication, alcohol has 
+dependence -producin g properties, resulting in Alcohol Dependence in some people 
+and Alcohol Withdrawal when alcohol use is reduced or discontinued. Unlike most 
+other substances, elimination of alcohol from the body occurs at a constant rate, 
+such that its clearance follows a  linear rather than a logarithmic course. Alcohol is 
+implicated in a wide range of harms affecting most organs and systems of the body 
+(e.g., cirrhosis of the liver, gastrointestinal cancers, pancreatitis). Harm to others 
+resulting from behaviour during Al cohol Intoxication is well recognized and is 
+included in the definitions of harmful use of alcohol (i.e., Episode of Harmful Use of 
+Alcohol and Harmful Pattern of Use of Alcohol). Several alcohol -induced mental 
+disorders (e.g., Alcohol -Induced Psychotic Di sorder) and alcohol -related forms of 
+neurocognitive impairment (e.g., Dementia Due to Use of Alcohol) are recognized.  
+Exclusions:  Hazardous alcohol use (QE10)  
+ ICD-11 MMS  455 
+ 

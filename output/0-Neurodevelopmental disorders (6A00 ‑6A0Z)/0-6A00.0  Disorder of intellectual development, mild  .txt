@@ -1,0 +1,25 @@
+6A00.0  Disorder of intellectual development, mild  
+
+  
+Neurodevelopmental disorders are behavioural and cognitive disorders that arise during the 
+developmental period t hat involve significant difficulties in the acquisition and execution of specific 
+intellectual, motor, language, or social functions. Although behavioural and cognitive deficits are 
+present in many mental and behavioural disorders that can arise during the  developmental period 
+(e.g., Schizophrenia, Bipolar disorder), only disorders whose core features are neurodevelopmental 
+are included in this grouping. The presumptive etiology for neurodevelopmental disorders is complex, 
+and in many individual cases is un known.  
+Coded Elsewhere:  Primary tics or tic disorders (8A05.0)  
+Secondary neurodevelopmental syndrome (6E60)  
+  6A00   Disorders of intellectual development  
+Disorders of intellectual development are a group of etiologically diverse conditions 
+originating dur ing the developmental period characterised by significantly below 
+average intellectual functioning and adaptive behaviour that are approximately two 
+or more standard deviations below the mean (approximately less than the 2.3rd 
+percentile), based on appropr iately normed, individually administered standardized 
+tests. Where appropriately normed and standardized tests are not available, 
+diagnosis of disorders of intellectual development requires greater reliance on 
+clinical judgment based on appropriate assessm ent of comparable behavioural 
+indicators.  
+Coding Note:  Use additional code, if desired, to identify any known aetiology.  
+Exclusions:  Dementia  (6D80‑6D8Z)  
+ 

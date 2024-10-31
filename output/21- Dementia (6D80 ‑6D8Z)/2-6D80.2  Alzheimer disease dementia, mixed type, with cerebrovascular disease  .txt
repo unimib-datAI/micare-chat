@@ -1,0 +1,10 @@
+6D80.2  Alzheimer disease dementia, mixed type, with cerebrovascular disease  
+
+
+Dementia due to Alzheimer disease that develops at the age of 65 year s or above. 
+This is the most common pattern, representing more than 95% of all cases.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 

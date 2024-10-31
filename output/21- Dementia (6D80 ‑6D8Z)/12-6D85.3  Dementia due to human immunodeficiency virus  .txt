@@ -1,0 +1,25 @@
+6D85.3  Dementia due to human immunodeficiency virus  
+
+
+Dementia due to exposure to heavy metals and other toxins caused by toxic 
+exposure to specific heavy metals such as aluminium from dialysis water, lead, 
+mercury or manganese. The characteristic cognitive impairments in Dementia due 
+to exposure to heavy met als and other toxins depend on the specific heavy metal or 
+toxin that the individual has been exposed to but can affect any cognitive domain. 
+Onset of symptoms is related to exposure and progression can be rapid especially 
+with acute exposure. In many case s, symptoms are reversible when exposure is 
+identified and ceases. Investigations such as brain imaging or neurophysiological 
+testing may be abnormal. Lead poisoning is associated with abnormalities on brain 
+imaging including widespread calcification and i ncreased signal on MRI T2 -
+weighted images of periventricular white matter, basal ganglia hypothalamus and 
+pons. Dementia due to aluminium toxicity may demonstrate characteristic 
+paroxysmal high -voltage delta EEG changes. Examination may make evident other 
+features such as peripheral neuropathy in the case of lead, arsenic, or mercury.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+Exclusions:  Dementia due to psychoactive substances including 
+medications (6D84)  
+ 580  ICD-11 MMS  
+ 

@@ -1,0 +1,30 @@
+6D85.0  Dementia due to Parkinson disease  
+
+
+Dementia due to use of volatile inhalants is characterised by the development of 
+persistent cognitive impairments (e.g., memory problems, language impairment, 
+and an inability to perform complex motor tasks) that meet the definitional 
+requirements of Dementia that are judged to be a direct consequence of inhalant 
+use or exposure and that persist beyond the usual duration of action or withdrawal 
+syndrome associated with the substance. The amount and duration of inhalant use 
+or exposure must be sufficient to be capable of producing the cognitive impairment. 
+The cognitive im pairment is not better accounted for by a disorder that is not 
+induced by volatile inhalants such as a dementia due to another medical condition.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as suppl ementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 
+6D84.Y  Dementia due to other specified psychoactive substance  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple a etiologies, code all that apply.  
+ 
+  6D85   Dementia due to diseases classified elsewhere  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identi fy the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ ICD-11 MMS  579 
+ 

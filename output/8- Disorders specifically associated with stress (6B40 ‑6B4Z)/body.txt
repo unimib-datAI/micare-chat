@@ -1,0 +1,119 @@
+  
+Disorders specifically associated with stress are directly related to exposure to a stressful or traumatic 
+event, or a series of such events o r adverse experiences. For each of the disorders in this grouping, 
+an identifiable stressor is a necessary, though not sufficient, causal factor. Although not all individuals 
+exposed to an identified stressor will develop a disorder, the disorders in this grouping would not have 
+occurred without experiencing the stressor. Stressful events for some disorders in this grouping are 
+within the normal range of life experiences (e.g., divorce, socio -economic problems, bereavement). 
+Other disorders require the expe rience of a stressor of an extremely threatening or horrific nature (i.e., 
+potentially traumatic events). With all disorders in this grouping, it is the nature, pattern, and duration 
+of the symptoms that arise in response to the stressful events —together w ith associated functional 
+impairment —that distinguishes the disorders.  
+Exclusions:  Burnout (QD85)  
+Acute stress reaction (QE84)  
+  6B40   Post traumatic stress disorder  
+Post traumatic stress disorder (PTSD) may develop following exposure to an 
+extremely thre atening or horrific event or series of events. It is characterised by all 
+of the following: 1) re -experiencing the traumatic event or events in the present in 
+the form of vivid intrusive memories, flashbacks, or nightmares. Re -experiencing 
+may occur via on e or multiple sensory modalities and is typically accompanied by 
+strong or overwhelming emotions, particularly fear or horror, and strong physical 
+sensations; 2) avoidance of thoughts and memories of the event or events, or 
+avoidance of activities, situati ons, or people reminiscent of the event(s); and 3) 
+persistent perceptions of heightened current threat, for example as indicated by 
+hypervigilance or an enhanced startle reaction to stimuli such as unexpected 
+noises. The symptoms persist for at least sever al weeks and cause significant 
+impairment in personal, family, social, educational, occupational or other important 
+areas of functioning.  
+Inclusions:  Traumatic neurosis  
+Exclusions:  Acute stress reaction (QE84)  
+Complex post traumatic stress disorder (6B41)  
+ 
+  6B41   Complex post traumatic stress disorder  
+Complex post traumatic stress disorder (Complex PTSD) is a disorder that may 
+develop following exposure to an event or series of events of an extremely 
+threatening or horrific nature, most commonly prolonged  or repetitive events from 
+which escape is difficult or impossible (e.g. torture, slavery, genocide campaigns, 
+prolonged domestic violence, repeated childhood sexual or physical abuse). All 
+diagnostic requirements for PTSD are met. In addition, Complex PTS D is 
+characterised by severe and persistent 1) problems in affect regulation; 2) beliefs 
+about oneself as diminished, defeated or worthless, accompanied by feelings of 
+shame, guilt or failure related to the traumatic event; and 3) difficulties in sustainin g 
+relationships and in feeling close to others. These symptoms cause significant 
+impairment in personal, family, social, educational, occupational or other important 
+areas of functioning.  
+Exclusions:  Post traumatic stress disorder (6B40)  
+Personality disord er (6D10)  
+ 438  ICD-11 MMS  
+   6B42   Prolonged grief disorder  
+Prolonged grief disorder is a disturbance in which, following the death of a partner, 
+parent, child, or other person close to the bereaved, there is persistent and 
+pervasive grief response characterised by longi ng for the deceased or persistent 
+preoccupation with the deceased accompanied by intense emotional pain (e.g. 
+sadness, guilt, anger, denial, blame, difficulty accepting the death, feeling one has 
+lost a part of one’s self, an inability to experience positi ve mood, emotional 
+numbness, difficulty in engaging with social or other activities). The grief response 
+has persisted for an atypically long period of time following the loss (more than 6 
+months at a minimum) and clearly exceeds expected social, cultural or religious 
+norms for the individual’s culture and context. Grief reactions that have persisted for 
+longer periods that are within a normative period of grieving given the person’s 
+cultural and religious context are viewed as normal bereavement responses and are 
+not assigned a diagnosis. The disturbance causes significant impairment in 
+personal, family, social, educational, occupational or other important areas of 
+functioning.  
+ 
+  6B43   Adjustment disorder  
+Adjustment disorder is a maladaptive reaction to a n identifiable psychosocial 
+stressor or multiple stressors (e.g. divorce, illness or disability, socio -economic 
+problems, conflicts at home or work) that usually emerges within a month of the 
+stressor. The disorder is characterised by preoccupation with th e stressor or its 
+consequences, including excessive worry, recurrent and distressing thoughts about 
+the stressor, or constant rumination about its implications, as well as by failure to 
+adapt to the stressor that causes significant impairment in personal, family, social, 
+educational, occupational or other important areas of functioning. The symptoms 
+are not better explained by another mental disorder (e.g., Mood Disorder, another 
+Disorder Specifically Associated with Stress) and typically resolve within 6 m onths, 
+unless the stressor persists for a longer duration.  
+Exclusions:  separation anxiety disorder of childhood (6B05)  
+Recurrent depressive disorder (6A71)  
+Single episode depressive disorder (6A70)  
+Prolonged grief disorder (6B42)  
+Uncomplicated bereavement (QE62)  
+Burnout (QD85)  
+Acute stress reaction (QE84)  
+ ICD-11 MMS  439 
+   6B44   Reactive attachment disorder  
+Reactive attachment disorder is characterised by grossly abnormal attachment 
+behaviours in early childhood, occurring in the context of a history of grossly 
+inadequate child care (e.g., severe neglect, maltreatment, institutional deprivation). 
+Even when an  adequate primary caregiver is newly available, the child does not 
+turn to the primary caregiver for comfort, support and nurture, rarely displays 
+security -seeking behaviours towards any adult, and does not respond when comfort 
+is offered. Reactive attachm ent disorder can only be diagnosed in children, and 
+features of the disorder develop within the first 5 years of life. However, the disorder 
+cannot be diagnosed before the age of 1 year (or a developmental age of less than 
+9 months), when the capacity for selective attachments may not be fully developed, 
+or in the context of Autism spectrum disorder.  
+Exclusions:  Asperger syndrome (6A02)  
+disinhibited attachment disorder of childhood (6B45)  
+ 
+  6B45   Disinhibited social engagement disorder  
+Disinhibited social  engagement disorder is characterised by grossly abnormal social 
+behaviour, occurring in the context of a history of grossly inadequate child care 
+(e.g., severe neglect, institutional deprivation). The child approaches adults 
+indiscriminately, lacks retice nce to approach, will go away with unfamiliar adults, 
+and exhibits overly familiar behaviour towards strangers. Disinhibited social 
+engagement disorder can only be diagnosed in children, and features of the 
+disorder develop within the first 5 years of life . However, the disorder cannot be 
+diagnosed before the age of 1 year (or a developmental age of less than 9 months), 
+when the capacity for selective attachments may not be fully developed, or in the 
+context of Autism spectrum disorder.  
+Exclusions:  Asperger  syndrome (6A02)  
+Adjustment disorder (6B43)  
+Attention deficit hyperactivity disorder (6A05)  
+reactive attachment disorder of childhood (6B44)  
+ 
+  6B4Y   Other specified disorders specifically associated with stress  
+ 
+  6B4Z   Disorders specifically associated  with stress, unspecified  
+ 440  ICD-11 MMS  

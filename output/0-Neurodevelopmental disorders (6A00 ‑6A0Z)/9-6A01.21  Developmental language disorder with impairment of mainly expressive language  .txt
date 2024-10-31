@@ -1,0 +1,22 @@
+6A01.21  Developmental language disorder with impairment of mainly expressive language  
+
+
+language  
+Developmental language disorder with impairment of receptive and expressive 
+language is characterised by persistent difficulties in the acquisition, understanding, 
+production, and use of language that arise duri ng the developmental period, 
+typically during early childhood, and cause significant limitations in the individual’s 
+ability to communicate. The ability to understand spoken or signed language (i.e., 
+receptive language) is markedly below the expected level  given the individual’s age 
+and level of intellectual functioning, and is accompanied by persistent impairment in 
+the ability to produce and use spoken or signed language (i.e., expressive 
+language).  
+Inclusions:  developmental dysphasia or aphasia, receptiv e type  
+Exclusions:  acquired aphasia with epilepsy [Landau -Kleffner] (8A62.2)  
+Autism spectrum disorder (6A02)  
+Selective mutism (6B06)  
+dysphasia NOS (MA80.1)  
+Diseases of the nervous system  (Chapter 08)  
+Deafness not otherwise specified (AB52)  
+ ICD-11 MMS  393 
+ 

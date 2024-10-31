@@ -1,0 +1,33 @@
+6C00.0  Nocturnal enuresis  
+
+  
+Elimination disorders i nclude the repeated voiding of urine into clothes or bed (enuresis) and the 
+repeated passage of faeces in inappropriate places (encopresis). Elimination disorders should only be 
+diagnosed after the individual has reached a developmental age when continence  is ordinarily 
+expected (5 years for enuresis and 4 years for encopresis). The urinary or faecal incontinence may 
+have been present from birth (i.e., an atypical extension of normal infantile incontinence), or may have 
+arisen following a period of acquired  bladder or bowel control. An Elimination disorder should not be 
+diagnosed if the behaviour is fully attributable to another health condition that causes incontinence, 
+congenital or acquired abnormalities of the urinary tract or bowel, or excessive use of laxatives or 
+diuretics.  
+  6C00   Enuresis  
+Enuresis is the repeated voiding of urine into clothes or bed, which may occur 
+during the day or at night, in an individual who has reached a developmental age 
+when urinary continence is ordinarily expected (5 year s). The urinary incontinence 
+may have been present from birth (i.e., an atypical extension of normal infantile 
+incontinence), or may have arisen following a period of acquired bladder control. In 
+most cases, the behaviour is involuntary but in some cases i t appears intentional. 
+Enuresis should not be diagnosed if unintentional voiding of urine is due to a health 
+condition that interferes with continence (e.g., diseases of the nervous system or 
+musculoskeletal disorders) or by congenital or acquired abnormal ities of the urinary 
+tract.  
+Inclusions:  Functional enuresis  
+Psychogenic enuresis  
+Urinary incontinence of nonorganic origin  
+Exclusions:  Stress incontinence (MF50.20)  
+Urge Incontinence (MF50.21)  
+Functional urinary incontinence (MF50.23)  
+Overflow Incontinence (MF50.2)  
+Reflex incontinence (MF50.24)  
+Extraurethral urinary incontinence (MF50.2)  
+ 

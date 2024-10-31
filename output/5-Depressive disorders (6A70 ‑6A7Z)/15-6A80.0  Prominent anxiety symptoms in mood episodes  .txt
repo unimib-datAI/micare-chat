@@ -1,0 +1,62 @@
+6A80.0  Prominent anxiety symptoms in mood episodes  
+
+
+Recurrent depressive disorder, currently in full remission is diagnosed when the 
+definitional requirements for recurrent depressive disorder have been met but 
+currently there are no significant mood symptoms.  
+ 
+6A71.Y  Other specified recurrent depressive disorder  
+ 
+6A71.Z  Recurrent depressive disorder, unspecified  
+ 
+  6A72   Dysthymic disor der 
+Dysthymic disorder is characterised by a persistent depressive mood (i.e., lasting 2 
+years or more), for most of the day, for more days than not. In children and 
+adolescents depressed mood can manifest as pervasive irritability. The depressed 
+mood is a ccompanied by additional symptoms such as markedly diminished interest 
+or pleasure in activities, reduced concentration and attention or indecisiveness, low 
+self-worth or excessive or inappropriate guilt, hopelessness about the future, 
+disturbed sleep or i ncreased sleep, diminished or increased appetite, or low energy 
+or fatigue. During the first 2 years of the disorder, there has never been a 2 -week 
+period during which the number and duration of symptoms were sufficient to meet 
+the diagnostic requirements for a Depressive Episode. There is no history of Manic, 
+Mixed, or Hypomanic Episodes.  
+Inclusions:  Dysthymia  
+Exclusions:  anxiety depression (mild or not persistent) (6A73)  
+ ICD-11 MMS  427 
+   6A73   Mixed depressive and anxiety disorder  
+Mixed depressive and anxiety disorder is characterised by symptoms of both 
+anxiety and depression more days than not for a period of two weeks or more. 
+Depressive symptoms include depressed mood or markedly diminished interest or 
+pleasure in activities. Th ere are multiple anxiety symptoms, which may include 
+feeling nervous, anxious, or on edge, not being able to control worrying thoughts, 
+fear that something awful will happen, having trouble relaxing, muscle tension, or 
+sympathetic autonomic symptoms. Neith er set of symptoms, considered separately, 
+is sufficiently severe, numerous, or persistent to justify a diagnosis of another 
+depressive disorder or an anxiety or fear -related disorder. The symptoms result in 
+significant distress or significant impairment i n personal, family, social, educational, 
+occupational or other important areas of functioning. There is no history of manic or 
+mixed episodes, which would indicate the presence of a bipolar disorder.  
+ 
+  6A7Y   Other specified depressive disorders  
+ 
+  6A7Z   Depressive disorders, unspecified  
+ 
+  6A80   Symptomatic and course presentations for mood episodes in mood 
+disorders  
+These categories may be applied to describe the presentation and characteristics of 
+mood episodes in the context of single episode  depressive disorder, recurrent 
+depressive disorder, bipolar type I disorder, or bipolar type II disorder. These 
+categories indicate the presence of specific, important features of the clinical 
+presentation or of the course, onset, and pattern of mood epis odes. These 
+categories are not mutually exclusive, and as many may be added as apply.  
+Coding Note:  These categories should never be used in primary coding. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify s pecific 
+clinically important features of mood episodes in mood disorders.  
+Coded Elsewhere:  Mental or behavioural disorders associated with pregnancy, 
+childbirth or the puerperium, without psychotic symptoms 
+(6E20)  
+Mental or behavioural disorders associated  with pregnancy, 
+childbirth or the puerperium, with psychotic symptoms 
+(6E21)  
+ 

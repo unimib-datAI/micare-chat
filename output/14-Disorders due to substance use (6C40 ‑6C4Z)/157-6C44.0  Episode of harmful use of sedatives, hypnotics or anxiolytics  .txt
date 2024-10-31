@@ -1,0 +1,37 @@
+6C44.0  Episode of harmful use of sedatives, hypnotics or anxiolytics  
+
+
+Opioid -induced anxiety disorder is characterised by anxiety symptoms (e.g., 
+apprehension or worry, fear, physiological symptoms of excessive autonomic 
+arousal, avoidance behaviour) that develop during or soon after intoxicati on with or 
+withdrawal from opioids. The intensity or duration of the symptoms is substantially in 
+excess of anxiety symptoms that are characteristic of Opioid intoxication or Opioid 
+withdrawal. The amount and duration of opioid use must be capable of produ cing 
+anxiety symptoms. The symptoms are not better explained by a primary mental 
+disorder (e.g., an Anxiety and Fear -Related Disorder, a Depressive Disorder with 
+prominent anxiety symptoms), as might be the case if the anxiety symptoms 
+preceded the onset o f the opioid use, if the symptoms persist for a substantial 
+period of time after cessation of the opioid use or withdrawal, or if there is other 
+evidence of a pre -existing primary mental disorder with anxiety symptoms (e.g., a 
+history of prior episodes not  associated with opioid use).  
+Coding Note:  Code also the causing condition  
+ 
+6C43.Y  Other specified disorders due to use of opioids  
+ 
+6C43.Z  Disorders due to use of opioids, unspecified  
+ 
+  6C44   Disorders due to use of sedatives, hypnotics or anxiolytics  
+Disorders due to use of sedatives, hypnotics or anxiolytics are characterised by the 
+pattern and consequences of use of these substances. Sedatives, hypnotics, and 
+anxiolytics are typically prescr ibed for the short -term treatment of anxiety or 
+insomnia and are also employed to provide sedation for medical procedures. They 
+include the benzodiazepines and the non -benzodiazepine positive allosteric 
+modulators of GABA receptors (i.e., ‘Z -drugs’) as wel l as many other compounds. 
+Sedatives, hypnotics, and anxiolytics include barbiturates, which are available much 
+less commonly now than in previous decades. Sedatives, hypnotics, and anxiolytics 
+have dependence -inducing properties that are related to the do se and duration of 
+their use. They may cause intoxication, dependence and withdrawal. Several other 
+mental disorders induced by sedatives, hypnotics, or anxiolytics are recognized.  
+Exclusions:  Hazardous use of sedatives, hypnotics or anxiolytics (QE11.2)  
+ ICD-11 MMS  477 
+ 

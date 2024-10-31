@@ -1,0 +1,33 @@
+6C4E.0  Episode of harmful use of other specified psychoactive substance  
+
+
+Dissociative drug -induced anxiety disorder including Ketamine or PCP is 
+characterise d by anxiety symptoms (e.g., apprehension or worry, fear, physiological 
+symptoms of excessive autonomic arousal, avoidance behaviour) that develop 
+during or soon after intoxication with dissociative drugs. The intensity or duration of 
+the symptoms is subst antially in excess of anxiety symptoms that are characteristic 
+of Dissociative drug intoxication. The amount and duration of Dissociative drug use 
+must be capable of producing anxiety symptoms. The symptoms are not better 
+explained by a primary mental diso rder (e.g., an Anxiety and Fear -Related Disorder, 
+a Depressive Disorder with prominent anxiety symptoms), as might be the case if 
+the anxiety symptoms preceded the onset of the dissociative drug use, if the 
+symptoms persist for a substantial period of time  after cessation of the dissociative 
+drug use, or if there is other evidence of a pre -existing primary mental disorder with 
+anxiety symptoms (e.g., a history of prior episodes not associated with dissociative 
+drug use).  
+Coding Note:  Code also the causing c ondition  
+ 
+6C4D.Y  Other specified disorders due to use of dissociative drugs including ketamine 
+and phencyclidine [PCP]  
+ 
+6C4D.Z  Disorders due to use of dissociative drugs including ketamine and 
+phencyclidine [PCP], unspecified  
+ 
+  6C4E   Disorders due to use of other specified psychoactive substances, 
+including medications  
+Disorders due to use of other specified psychoactive substances, including 
+medications are characterised by the pattern and consequences of psychoactive 
+substances that are not included among the major substance classes specifically 
+identified. Examples include khat, antidepressants, medications with anticholinergic 
+properties (e.g., benztropine), and some antihistamines.  
+ 

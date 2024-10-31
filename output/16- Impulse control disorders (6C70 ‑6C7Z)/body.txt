@@ -1,0 +1,78 @@
+  
+Impulse control disorders are characterised by the repeated failure to resist an impulse, drive, or urge 
+to perform an act that is rewarding to the person, at least in the short -term, despite consequences 
+such as longer -term harm either to the individual o r to others, marked distress about the behaviour 
+pattern, or significant impairment in personal, family, social, educational, occupational, or other 
+important areas of functioning. Impulse Control Disorders involve a range of specific behaviours, 
+including  fire-setting, stealing, sexual behaviour, and explosive outbursts.  
+Coded Elsewhere:  Substance -induced impulse control disorders  
+Gambling disorder (6C50)  
+Gaming disorder (6C51)  
+Secondary impulse control syndrome (6E66)  
+Body -focused repetitive behaviour disorders (6B25)  
+  6C70   Pyromania  
+Pyromania is characterised by a recurrent failure to control strong impulses to set 
+fires, resulting in multiple acts of, or attempts at, settin g fire to property or other 
+objects, in the absence of an apparent motive (e.g., monetary gain, revenge, 
+sabotage, political statement, attracting attention or recognition). There is an 
+increasing sense of tension or affective arousal prior to instances of  fire setting, 
+persistent fascination or preoccupation with fire and related stimuli (e.g., watching 
+fires, building fires, fascination with firefighting equipment), and a sense of pleasure, 
+excitement, relief or gratification during, and immediately after  the act of setting the 
+fire, witnessing its effects, or participating in its aftermath. The behaviour is not 
+better explained by intellectual impairment, another mental and behavioural 
+disorder, or substance intoxication.  
+Inclusions:  pathological fire -setting 
+Exclusions:  Conduct -dissocial disorder (6C91)  
+Bipolar type I disorder (6A60)  
+Schizophrenia or other primary psychotic disorders  
+(6A20‑6A2Z)  
+Fire-setting as the reason for observation for suspected mental 
+or behavioural disorders, ruled out (QA02.3)  
+ 
+  6C71   Kleptomania  
+Kleptomania is characterised by a recurrent failure to control strong impulses to 
+steal objects in the absence of an apparent motive (e.g., objects are not acquired 
+for personal use or monetary gain). There is an increasing sense of ten sion or 
+affective arousal before instances of theft and a sense of pleasure, excitement, 
+relief, or gratification during and immediately after the act of stealing. The behaviour 
+is not better explained by intellectual impairment, another mental and behavio ural 
+disorder, or substance intoxication.  
+Coding Note:  If stealing occurs within the context of conduct -dissocial disorder or a manic 
+episode, Kleptomania should not be diagnosed separately.  
+Inclusions:  pathological stealing  
+Exclusions:  shoplifting as the reason for observation for suspected mental 
+disorder, ruled out (QA02.3)  
+ ICD-11 MMS  559 
+   6C72   Compulsive sexual behaviour disorder  
+Compulsive sexual behaviour disorder is characterised by a persistent pattern of 
+failure to control intense, repetitive sexual impulses or urges resulting in repetitive 
+sexual behaviour. Symptoms may include repetitive sexual activities becoming a 
+central focus of the person’s life to the point of neglecting health and personal care 
+or other interests, activities and responsibilities; nume rous unsuccessful efforts to 
+significantly reduce repetitive sexual behaviour; and continued repetitive sexual 
+behaviour despite adverse consequences or deriving little or no satisfaction from it. 
+The pattern of failure to control intense, sexual impulses or urges and resulting 
+repetitive sexual behaviour is manifested over an extended period of time (e.g., 6 
+months or more), and causes marked distress or significant impairment in personal, 
+family, social, educational, occupational, or other important areas  of functioning. 
+Distress that is entirely related to moral judgments and disapproval about sexual 
+impulses, urges, or behaviours is not sufficient to meet this requirement.  
+Exclusions:  Paraphilic disorders  (6D30‑6D3Z)  
+ 
+  6C73   Intermittent explosive disorder  
+Intermittent explosive disorder is characterised by repeated brief episodes of verbal 
+or physical aggression or destruction of property that represent a failure to control 
+aggressive impulses, with the intensity of the outbu rst or degree of aggressiveness 
+being grossly out of proportion to the provocation or precipitating psychosocial 
+stressors. The symptoms are not better explained by another mental, behavioural, 
+or neurodevelopmental disorder and are not part of a pattern o f chronic anger and 
+irritability (e.g., in oppositional defiant disorder). The behaviour pattern is of 
+sufficient severity to result in significant impairment in personal, family, social, 
+educational, occupational or other important areas of functioning.  
+Exclusions:  Oppositional defiant disorder (6C90)  
+ 
+  6C7Y   Other specified impulse control disorders  
+ 
+  6C7Z   Impulse control disorders, unspecified  
+ 560  ICD-11 MMS  

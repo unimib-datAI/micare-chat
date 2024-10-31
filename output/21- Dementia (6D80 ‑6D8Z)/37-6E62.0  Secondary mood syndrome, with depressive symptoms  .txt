@@ -1,0 +1,21 @@
+6E62.0  Secondary mood syndrome, with depressive symptoms  
+
+
+Coding Note:  Code also the causing condition  
+ 
+  6E62   Secondary mood syndrome  
+A syndrome characterised by the presence of prominent mood symptoms (i.e., 
+depression, elevated mood, irritability) judged to be a  direct pathophysiological 
+consequence of a health condition not classified under mental and behavioural 
+disorders, based on evidence from the history, physical examination, or laboratory 
+findings. The symptoms are not accounted for by delirium or by anoth er mental and 
+behavioural disorder, and are not a psychologically mediated response to a severe 
+medical condition (e.g., depressive symptoms in response to a life -threatening 
+diagnosis). This category should be used in addition to the diagnosis for the 
+presumed underlying disorder or disease when the mood symptoms are sufficiently 
+severe to warrant specific clinical attention.  
+Coding Note:  Code also the causing condition  
+Exclusions:  Adjustment disorder (6B43)  
+Delirium (6D70)  
+ 590  ICD-11 MMS  
+ 

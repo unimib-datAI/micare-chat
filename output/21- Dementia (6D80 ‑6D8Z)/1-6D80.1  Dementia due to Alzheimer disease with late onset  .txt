@@ -1,0 +1,13 @@
+6D80.1  Dementia due to Alzheimer disease with late onset  
+
+
+Dementia due to Alzheimer disease in which symptoms emerge before the age of 
+65 years. It is relatively rare, representing less than 5% of all cases, and may be 
+genetically determined (autosomal dominant Alzheimer disease). Clinical 
+presentation may be sim ilar to cases with later onset, but progression of cognitive 
+deficits may be more rapid.  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identi fy the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 

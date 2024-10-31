@@ -1,0 +1,18 @@
+6C40.4  Alcohol withdrawal  
+
+
+Alcohol intoxication is a clinically significant transient condition that develops during 
+or shortly after the consumption of alcohol that is characterised by disturbances in 
+consciousness, cognition, perception, affect, behaviour, or coordination. These 
+disturbances are caused by the known pharmacological effects of alcohol and their 
+intensity is closely related to the amount of alcohol consumed. They are time -limited 
+and abate as alcohol is cleared from the body. Presenting features may include 
+impaired a ttention, inappropriate or aggressive behaviour, lability of mood and 
+emotions, impaired judgment, poor coordination, unsteady gait, fine nystagmus and 
+slurred speech. At more severe levels of intoxication, stupor or coma may occur. 
+Alcohol intoxication ma y facilitate suicidal ideation or behaviour.  
+Coding Note:  Code also the causing condition  
+Exclusions:  alcohol poisoning (NE61)  
+Possession trance disorder (6B63)  
+ 458  ICD-11 MMS  
+ 

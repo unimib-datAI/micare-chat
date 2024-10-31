@@ -1,0 +1,24 @@
+6A01.0  Developmental speech sound disorder  
+
+
+Disorder of intellectual development, provisional is assigned when there is evidence 
+of a disorder of intellectual development but the individual is an infant or child under 
+the age of four or it is not possible to conduct a valid assessment of intellectual 
+functioning and adaptive behaviour because of sensory or physical impairments 
+(e.g., blindness, pre -lingual deafness), motor or communication impairments, 
+severe problem behaviours or co -occurring mental and behavioural disorders.  
+ 
+6A00.Z  Disorders of intellectual development, unspecified  
+Coding Note:  Use additional code, if desired, to identify any known aetiology.  
+ 
+  6A01   Developmental speech or language disorders  
+Developmental speech or language disorders arise during the developmental period 
+and are characterised by difficulties in understanding o r producing speech and 
+language or in using language in context for the purposes of communication that 
+are outside the limits of normal variation expected for age and level of intellectual 
+functioning. The observed speech and language problems are not attr ibutable to 
+regional, social, or cultural/ethnic language variations and are not fully explained by 
+anatomical or neurological abnormalities. The presumptive aetiology for 
+Developmental speech or language disorders is complex, and in many individual 
+cases,  is unknown.  
+ 

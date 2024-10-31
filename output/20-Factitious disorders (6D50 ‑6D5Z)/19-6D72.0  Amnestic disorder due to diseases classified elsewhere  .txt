@@ -1,0 +1,54 @@
+6D72.0  Amnestic disorder due to diseases classified elsewhere  
+
+
+All definitional requirements for delirium are met. There is evidence from history, 
+physical examination, or laboratory findings that the delirium is attributable to 
+multiple etiologic al factors, which may include disorders or diseases not classified 
+under mental and behavioural disorders, substance intoxication or withdrawal, or a 
+medication.  
+Coding Note:  Identified etiologies should be classified separately.  
+ 
+6D70.Y  Delirium, other specified cause  
+ 
+6D70.Z  Delirium, unspecified or unknown cause  
+ ICD-11 MMS  571 
+   6D71   Mild neurocognitive disorder  
+Mild neurocognitive disorder is characterized by mild impairment in one or more 
+cognitive domains relative to that expected given the indi vidual’s age and general 
+premorbid level of cognitive functioning, which represents a decline from the 
+individual’s previous level of functioning. Diagnosis is based on report from the 
+patient, informant, or clinical observation, and is accompanied by obje ctive evidence 
+of impairment by quantified clinical assessment or standardized cognitive testing. 
+Cognitive impairment is not severe enough to significantly interfere with an 
+individual’s ability to perform activities related to personal, family, social, 
+educational, and/or occupational functioning or other important functional areas. 
+Cognitive impairment is not attributable to normal aging and may be static, 
+progressive, or may resolve or improve depending on underlying cause or 
+treatment. Cognitive impair ment may be attributable to an underlying acquired 
+disease of the nervous system, a trauma, an infection or other disease process 
+affecting the brain, use of specific substances or medications, nutritional deficiency 
+or exposure to toxins, or the etiology may be undetermined. The impairment is not 
+due to current substance intoxication or withdrawal.  
+Coding Note:  Code also the causing condition  
+ 
+  6D72   Amnestic disorder  
+Amnestic disorder is characterised by prominent memory impairment relative to 
+expectations for age and general premorbid level of cognitive functioning, which 
+represents a decline from the individual’s previous level of functioning, in the 
+absence of other  significant cognitive impairment. It is manifested by a deficit in 
+acquiring, learning, and/or retaining new information, and may include the inability 
+to recall previously learned information, without disturbance of consciousness, 
+altered mental status, or delirium. Recent memory is typically more disturbed than 
+remote memory, and the ability to immediately recall a limited amount of information 
+is usually relatively preserved. The memory impairment is severe enough to result 
+in significant impairment in personal, family, social, educational, occupational, or 
+other important areas of functioning. It is presumed to be attributable to an 
+underlying acquired disease of the nervous system, a trauma, an infection or other 
+disease process affecting the brain, to  use of specific substances or medications, 
+nutritional deficiency or exposure to toxins, or the etiology may be undetermined. 
+The impairment is not due to current substance intoxication or withdrawal.  
+Exclusions:  Delirium (6D70)  
+Dementia  (6D80‑6D8Z)  
+Mild neurocognitive disorder (6D71)  
+ 572  ICD-11 MMS  
+ 

@@ -1,0 +1,37 @@
+6C4F.0  Episode of harmful use of multiple specified psychoactive substances  
+
+
+Impulse control disorder induced by other specified psychoactive substance is 
+characterised by persistently repeated behaviours in which there is recurrent failure 
+to resist an impulse, drive, or ur ge to perform an act that is rewarding to the person, 
+at least in the short -term, despite longer -term harm either to the individual or to 
+others (e.g., fire setting or stealing without apparent motive, repetitive sexual 
+behaviour, aggressive outbursts) tha t develop during or soon after intoxication with 
+or withdrawal from a specified psychoactive substance. The intensity or duration of 
+the symptoms is substantially in excess of disturbances of impulse control that are 
+characteristic of intoxication with or withdrawal from the specified psychoactive 
+substance. The amount and duration of the specified psychoactive substance use 
+must be capable of producing disturbances of impulse control. The symptoms are 
+not better explained by a primary mental disorder (e.g. , an Impulse control disorder, 
+a Disorder due to addictive behaviours), as might be the case if the impulse control 
+disturbances preceded the onset of the specified psychoactive substance use, if the 
+symptoms persist for a substantial period of time after cessation of use or 
+withdrawal of the specified psychoactive substance, or if there is other evidence of a 
+pre-existing primary mental disorder with impulse control symptoms (e.g., a history 
+of prior episodes not associated with specified psychoactive subs tance use).  
+Coding Note:  Code also the causing condition  
+ 
+6C4E.Y  Other specified disorders due to use of other specified psychoactive 
+substances, including medications  
+ 
+6C4E.Z  Disorders due to use of other specified psychoactive substances, including 
+medic ations, unspecified  
+ ICD-11 MMS  539 
+   6C4F   Disorders due to use of multiple specified psychoactive substances, 
+including medications  
+Disorders due to use of multiple specified psychoactive substances, including 
+medications are characterised by the pattern and consequen ces of multiple 
+psychoactive substances. Although this grouping is provided for coding purposes, in 
+most clinical situations it is recommended that multiple specific disorders due to 
+substance use be assigned rather than using categories from this grouping . 
+ 

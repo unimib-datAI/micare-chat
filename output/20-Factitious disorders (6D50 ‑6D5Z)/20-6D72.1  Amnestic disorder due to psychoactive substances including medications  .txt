@@ -1,0 +1,19 @@
+6D72.1  Amnestic disorder due to psychoactive substances including medications  
+
+
+All definitional requirements for amnestic disorder are met. The memory symptoms 
+are judged to be the direct pathophysiological consequence of a medical condition  
+not classified under mental, behavioural and neurodevelopmental disorders, based 
+on evidence from the history, physical examination, or laboratory findings. The 
+symptoms are not better explained by Delirium, Dementia, another mental disorder 
+(e.g., Schizo phrenia or Other Primary Psychotic Disorder, a Mood Disorder) or the 
+effects of a medication or substance, including withdrawal effects. The symptoms 
+are sufficiently severe to be a specific focus of clinical attention. The identified 
+etiological medical c ondition should be classified separately.  
+Coding Note:  Code also the causing condition  
+Exclusions:  amnesia: retrograde (MB21.11)  
+Korsakoff syndrome, alcohol -induced or unspecified (8D44)  
+Dissociative amnesia (6B61)  
+Anterograde amnesia (MB21.10)  
+amnesia NOS  (MB21.1)  
+ 

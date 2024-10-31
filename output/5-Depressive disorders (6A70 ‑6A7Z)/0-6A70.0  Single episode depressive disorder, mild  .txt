@@ -1,0 +1,25 @@
+6A70.0  Single episode depressive disorder, mild  
+
+  
+Depressive disorders are characterised by depressive mood (e.g., sad, irritable, empty) or loss of 
+pleasure accompanied by other cognitive, behavioural, or neurovegetative sy mptoms that significantly 
+affect the individual’s ability to function. A depressive disorder should not be diagnosed in individuals 
+who have ever experienced a manic, mixed or hypomanic episode, which would indicate the presence 
+of a bipolar disorder.  
+Code d Elsewhere:  Premenstrual dysphoric disorder (GA34.41)  
+  6A70   Single episode depressive disorder  
+Single episode depressive disorder is characterised by the presence or history of 
+one depressive episode when there is no history of prior depressive episodes. A 
+depressive episode is characterised by a period of depressed mood or diminished 
+interest in ac tivities occurring most of the day, nearly every day during a period 
+lasting at least two weeks accompanied by other symptoms such as difficulty 
+concentrating, feelings of worthlessness or excessive or inappropriate guilt, 
+hopelessness, recurrent thoughts of death or suicide, changes in appetite or sleep, 
+psychomotor agitation or retardation, and reduced energy or fatigue. There have 
+never been any prior manic, hypomanic, or mixed episodes, which would indicate 
+the presence of a bipolar disorder.  
+Exclusions : recurrent depressive disorder (6A71)  
+Adjustment disorder (6B43)  
+Bipolar or related disorders  (6A60‑6A6Z)  
+ ICD-11 MMS  421 
+ 

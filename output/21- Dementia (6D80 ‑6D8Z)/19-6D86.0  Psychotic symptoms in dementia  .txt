@@ -1,0 +1,33 @@
+6D86.0  Psychotic symptoms in dementia  
+
+
+Dementia due to Down syndrome is a neurodegenerative disorder related to the 
+impact of abnormal increased production and accumulation of amyloid precursor 
+protein (APP) leading to fo rmation of beta -amyloid plaques and tau tangles. APP 
+gene expression is increased due to its location on chromosome 21, which is 
+abnormally triplicated in Down syndrome. Cognitive deficits and neuropathological 
+features are similar to those observed in Alz heimer disease. Onset is typically after 
+the fourth decade of life with a gradual decline in functioning, and may impact 50% 
+or more of individuals with Down syndrome.  
+Coding Note:  This category should never be used in primary tabulation. The codes are pro vided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 
+6D85.Y  Dementia due to other specified diseases  classified elsewhere  
+Coding Note:  This category should never be used in primary tabulation. The codes are provided 
+for use as supplementary or additional codes when it is desired to identify the 
+presence of dementia in diseases classified elsewhere.  
+When dementia is due to multiple aetiologies, code all that apply.  
+ 
+  6D86   Behavioural or psychological disturbances in dementia  
+In addition to the cognitive disturbances characteristic of dementia, the current 
+clinical picture includes clinically significant  behavioural or psychological 
+disturbances.  
+Coding Note:  These categories should never be used in primary tabulation. The codes are 
+provided for use as supplementary or additional codes when it is desired to identify 
+the presence of behavioural or psycholo gical disturbance in dementia.  
+Code all that apply.  
+Exclusions:  Secondary mental or behavioural syndromes associated with 
+disorders or diseases classified elsewhere  (6E60‑6E6Z)  
+ 

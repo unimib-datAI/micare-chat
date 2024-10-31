@@ -1,0 +1,13 @@
+6C43.6  Opioid -induced psychotic disorder  
+
+
+Opioid -induced delirium is characterised by an acute state of disturbed attention 
+and awareness with specific features of delirium that develops during or soon after 
+substance intoxicat ion or withdrawal or during the use of opioids. The amount and 
+duration of opioid use must be capable of producing delirium. The symptoms are 
+not better explained by a primary mental disorder, by use of or withdrawal from a 
+different substance, or by anoth er health condition that is not classified under 
+Mental, Behavioural, and Neurodevelopmental Disorders.  
+Coding Note:  Code also the causing condition  
+Inclusions:  Delirium induced by opioid withdrawal  
+ 

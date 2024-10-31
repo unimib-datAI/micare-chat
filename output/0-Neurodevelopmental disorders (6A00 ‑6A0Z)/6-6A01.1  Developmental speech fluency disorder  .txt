@@ -1,0 +1,19 @@
+6A01.1  Developmental speech fluency disorder  
+
+
+Developmental speech sound disorder is characterised by difficulties in the 
+acquisition, production and perception of speech that result in errors of 
+pronunciation, either in number or types of speec h errors made or the overall quality 
+of speech production, that are outside the limits of normal variation expected for age 
+and level of intellectual functioning and result in reduced intelligibility and 
+significantly affect communication. The errors in pr onunciation arise during the early 
+developmental period and cannot be explained by social, cultural, and other 
+environmental variations (e.g., regional dialects). The speech errors are not fully 
+explained by a hearing impairment or a structural or neurolog ical abnormality.  
+Inclusions:  Functional speech articulation disorder  
+Exclusions:  Deafness not otherwise specified (AB52)  
+Diseases of the nervous system  (Chapter 08)  
+Dysarthria (MA80.2)  
+Verbal apraxia (MB4A)  
+ 392  ICD-11 MMS  
+ 
